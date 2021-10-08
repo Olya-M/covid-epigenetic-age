@@ -1,5 +1,5 @@
 ---
-title: "R Notebook"
+title: 'R Notebook for preprocessing GEO methylation profiling by array datasets (Illumina 27k+) for estimating epigenetic age with AltumAge or the 2013 Horvath epigenetic clock'
 output: html_notebook
 ---
 
@@ -14,10 +14,10 @@ unprocessed_filename = paste('data/', fname, geo,'_unprocessed.csv', sep='')
 meta_filename = paste('data/', fname, geo,'_meta.csv', sep='')
 normalized_filename = paste('data/', fname, geo,'_normalized.csv', sep='')
 horvath_filename = paste('data/', fname, geo,'_horvath.csv', sep='')
-setwd('C:/Users/olyam/Documents/ML/Portfolio/p1/Horvath/p2')
 ```
 Citation for this dataset: 
 Konigsberg IR, Barnes B, Campbell M, Davidson E, Zhen Y, Pallisard O, Boorgula M, Cox C, Nandy D, Seal S, Crooks K. Host methylation predicts SARS-CoV-2 infection and clinical outcome.
+
 ```{r}
 library(GEOquery)
 library(minfi)
@@ -80,7 +80,7 @@ fwrite(betas_dataframe, unprocessed_filename, row.names=F, sep=',')
 
 
 
-The code and comments in the cells below are from Steve Horvath's "Estimate DNA methylation age with R tutorial" (with some very slight modifications): https://horvath.genetics.ucla.edu/html/dnamage/TUTORIAL1.pdf
+The code and comments in the cells below are from Steve Horvath's "Estimate DNA methylation age with R tutorial" (with only some slight modifications): https://horvath.genetics.ucla.edu/html/dnamage/TUTORIAL1.pdf
 Method citation: Horvath S (2013) DNA methylation age of human tissues and cell types. Genome Biology
 
 ```{r}
@@ -173,7 +173,7 @@ dimnames(datMethUsed)=dimnames1
 ```{r}
 # STEP 3: Data normalization (each sample requires about 8 seconds). It would be straightforward to parallelize this operation.
 
-source("NORMALIZATION.R") 
+source("NORMALIZATION_horvath.R") # NORMALIZATION.R file from https://horvath.genetics.ucla.edu/html/dnamage/
 
 normalizeData = TRUE
 
