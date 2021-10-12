@@ -41,10 +41,7 @@ write.table(meta, meta_filename, row.names=T, sep=',' )
 ```{r}
 # Downloaded GSE167202_RAW.tar directly from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167202
 
-trafo= function(x,adult.age=20) { x=(x+1)/(1+adult.age); y=ifelse(x<=1, log( x),x-1);y }
-anti.trafo= function(x,adult.age=20) { ifelse(x<0, (1+adult.age)*exp(x)-1, (1+adult.age)*x+adult.age) }
 altum_cpgs = fread('AltumAge_cpgs.csv')
-
 
 idatFiles <- list.files('GSE167202_RAW', pattern = "idat.gz$", full = TRUE)
 sapply(idatFiles, gunzip, overwrite = TRUE)
@@ -87,6 +84,8 @@ Method citation: Horvath S (2013) DNA methylation age of human tissues and cell 
 probeAnnotation21kdatMethUsed=read.csv("HorvathClock/probeAnnotation21kdatMethUsed.csv")
 probeAnnotation27k=read.csv("HorvathClock/datMiniAnnotation27k.csv")
 datClock=read.csv("HorvathClock/AdditionalFile3.csv") # unfortunately there weren't enough cpgs that matched up with the cpgs in the original Horvath clock
+trafo= function(x,adult.age=20) { x=(x+1)/(1+adult.age); y=ifelse(x<=1, log( x),x-1);y }
+anti.trafo= function(x,adult.age=20) { ifelse(x<0, (1+adult.age)*exp(x)-1, (1+adult.age)*x+adult.age) }
 
 unprocessed = fread(unprocessed_filename)
 dat0 <- data.frame(unprocessed)
