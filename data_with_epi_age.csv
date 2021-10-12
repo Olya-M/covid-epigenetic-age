@@ -1,526 +1,501 @@
-title,geo_accession,covid_status:ch1,severity score:ch1,patient_asymptomatic:ch1,admitted_to_icu:ch1,covid_hosp_days:ch1,discharged_to:ch1,ed_disposition:ch1,ethnicity:ch1,race:ch1,Sex:ch1,age:ch1,altum,adjusted_altum,diffs
-genomic DNA from peripheral blood SARS-COV-2- 77,GSM5098953,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,27,44.402985,37.180832,10.180831909179688
-genomic DNA from peripheral blood SARS-COV-2- 124,GSM5098954,negative,,,No,,Home,Discharged,Hispanic or Latino,Other,Male,34,48.271767,41.25685,7.2568511962890625
-genomic DNA from peripheral blood SARS-COV-2+ 155,GSM5098955,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,Other,Female,53,56.823288,52.27268,-0.7273216247558594
-genomic DNA from peripheral blood SARS-COV-2+ 139,GSM5098956,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,34,47.963432,40.908936,6.908935546875
-genomic DNA from peripheral blood SARS-COV-2- 295,GSM5098957,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,68,68.15662,68.47119,0.47119140625
-genomic DNA from peripheral blood SARS-COV-2+ 157,GSM5098958,positive,2.0,No,No,5.0,Home,Floor Admission,Hispanic or Latino,White,Female,81,67.584984,67.70436,-13.295639038085938
-genomic DNA from peripheral blood SARS-COV-2- 289,GSM5098959,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,25,25.977833,25.038757,0.03875732421875
-genomic DNA from peripheral blood SARS-COV-2+ 146,GSM5098960,positive,4.0,No,Yes,,Death,ICU,Not Hispanic or Latino,White,Male,74,72.61821,73.88222,-0.1177825927734375
-genomic DNA from peripheral blood SARS-COV-2+ 51,GSM5098961,positive,3.0,No,Yes,36.0,Home,ICU,Not Hispanic or Latino,White,Female,29,40.310467,33.561565,4.561565399169922
-genomic DNA from peripheral blood SARS-COV-2- 63,GSM5098962,negative,,,No,,,Floor Admission,Not Hispanic or Latino,White,Female,34,47.968212,40.91429,6.9142913818359375
-genomic DNA from peripheral blood SARS-COV-2+ 44,GSM5098963,positive,2.0,No,No,2.0,Home,Floor Admission,Hispanic or Latino,Other,Male,42,47.675976,40.588093,-1.4119071960449219
-genomic DNA from peripheral blood SARS-COV-2+ 145,GSM5098964,positive,1.0,No,No,0.0,,Discharged,Hispanic or Latino,White,Male,29,31.903233,28.062683,-0.93731689453125
-genomic DNA from peripheral blood SARS-COV-2- 87,GSM5098965,negative,,,Yes,,Home,Floor Admission,Hispanic or Latino,White,Male,60,60.046543,56.90801,-3.091991424560547
-genomic DNA from peripheral blood SARS-COV-2+ 147,GSM5098966,positive,3.0,No,Yes,31.0,Home,ICU,Hispanic or Latino,White,Female,50,54.950386,49.66717,-0.3328285217285156
-genomic DNA from peripheral blood SARS-COV-2+ 142,GSM5098967,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,22,23.238356,23.585308,1.5853080749511719
-genomic DNA from peripheral blood SARS-COV-2+ 154,GSM5098968,positive,2.0,No,No,2.0,Home,Floor Admission,Hispanic or Latino,Other,Female,57,58.168217,54.18884,-2.8111610412597656
-genomic DNA from peripheral blood SARS-COV-2- 286,GSM5098969,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,46,62.10443,59.912876,13.91287612915039
-genomic DNA from peripheral blood SARS-COV-2+ 150,GSM5098970,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,49,55.79442,50.83106,1.8310585021972656
-genomic DNA from peripheral blood SARS-COV-2+ 158,GSM5098971,positive,3.0,No,Yes,40.0,Nursing home or skilled rehab,Floor Admission,Hispanic or Latino,White,Male,54,64.02897,62.70985,8.709850311279297
-genomic DNA from peripheral blood SARS-COV-2- 291,GSM5098972,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,88,77.03363,77.734436,-10.26556396484375
-genomic DNA from peripheral blood SARS-COV-2- 294,GSM5098973,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,36,46.0948,38.885155,2.8851547241210938
-genomic DNA from peripheral blood SARS-COV-2+ 164,GSM5098974,positive,3.0,No,Yes,3.0,Home,ICU,Hispanic or Latino,Other,Male,23,20.924767,22.206032,-0.7939682006835938
-genomic DNA from peripheral blood SARS-COV-2- 89,GSM5098975,negative,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,White,Male,74,65.75747,65.1776,-8.822402954101562
-genomic DNA from peripheral blood SARS-COV-2+ 52,GSM5098976,positive,3.0,No,Yes,29.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,49,61.04339,58.36262,9.362621307373047
-genomic DNA from peripheral blood SARS-COV-2- 147,GSM5098977,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,64,62.123684,59.940968,-4.059032440185547
-genomic DNA from peripheral blood SARS-COV-2- 164,GSM5098978,negative,,,No,,,Discharged,Not Hispanic or Latino,BlackorAA,Female,67,63.580463,62.061275,-4.938724517822266
-genomic DNA from peripheral blood SARS-COV-2- 184,GSM5098979,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,35,42.695206,35.58478,0.5847816467285156
-genomic DNA from peripheral blood SARS-COV-2- 59,GSM5098980,negative,,,,,Other,ICU,Not Hispanic or Latino,White,Male,47,48.988224,42.08026,-4.91973876953125
-genomic DNA from peripheral blood SARS-COV-2- 171,GSM5098981,negative,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,70,64.51193,63.405033,-6.594966888427734
-genomic DNA from peripheral blood SARS-COV-2- 123,GSM5098982,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,87,77.11993,77.78967,-9.2103271484375
-genomic DNA from peripheral blood SARS-COV-2+ 152,GSM5098983,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,45,51.328964,44.910706,-0.08929443359375
-genomic DNA from peripheral blood SARS-COV-2+ 163,GSM5098984,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,37,39.93231,33.262066,-3.737934112548828
-genomic DNA from peripheral blood SARS-COV-2- 287,GSM5098985,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,Other,Male,58,61.873722,59.575916,1.5759162902832031
-genomic DNA from peripheral blood SARS-COV-2+ 161,GSM5098986,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,NativeHawaiianorPacificIslander,Female,87,76.69822,77.51149,-9.488510131835938
-genomic DNA from peripheral blood SARS-COV-2- 67,GSM5098987,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,34,42.25798,35.19613,1.1961288452148438
-genomic DNA from peripheral blood SARS-COV-2+ 45,GSM5098988,positive,3.0,No,Yes,45.0,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,BlackorAA,Male,57,64.80093,63.81911,6.819110870361328
-genomic DNA from peripheral blood SARS-COV-2+ 140,GSM5098989,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,Other,Female,27,34.38714,29.46767,2.467670440673828
-genomic DNA from peripheral blood SARS-COV-2- 296,GSM5098990,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,73,70.87025,71.90332,-1.0966796875
-genomic DNA from peripheral blood SARS-COV-2+ 162,GSM5098991,positive,2.0,No,No,2.0,Home,Floor Admission,Hispanic or Latino,Other,Male,47,52.46571,46.358,-0.641998291015625
-genomic DNA from peripheral blood SARS-COV-2+ 153,GSM5098992,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,35,49.02915,42.127907,7.127906799316406
-genomic DNA from peripheral blood SARS-COV-2+ 151,GSM5098993,positive,2.0,No,No,5.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,74,71.801926,72.984375,-1.015625
-genomic DNA from peripheral blood SARS-COV-2- 293,GSM5098994,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,28,27.373129,25.74236,-2.257640838623047
-genomic DNA from peripheral blood SARS-COV-2+ 149,GSM5098995,positive,4.0,No,Yes,,Death,Floor Admission,Hispanic or Latino,Other,Male,71,68.85946,69.39525,-1.6047515869140625
-genomic DNA from peripheral blood SARS-COV-2+ 141,GSM5098996,positive,2.0,No,No,9.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,70,68.522224,68.95451,-1.0454864501953125
-genomic DNA from peripheral blood SARS-COV-2+ 143,GSM5098997,positive,3.0,No,Yes,27.0,Home,Floor Admission,Hispanic or Latino,Other,Male,26,36.24763,30.62585,4.625850677490234
-genomic DNA from peripheral blood SARS-COV-2+ 160,GSM5098998,positive,2.0,No,No,9.0,Home,Floor Admission,Hispanic or Latino,Other,Male,54,57.68999,53.50388,-0.4961204528808594
-genomic DNA from peripheral blood SARS-COV-2- 40,GSM5098999,negative,,,,,Other,ICU,Not Hispanic or Latino,Other,Male,81,70.43434,71.37868,-9.621322631835938
-genomic DNA from peripheral blood SARS-COV-2- 290,GSM5099000,negative,,,Yes,,Home,ICU,Hispanic or Latino,Other,Male,45,50.11647,43.418385,-1.5816154479980469
-genomic DNA from peripheral blood SARS-COV-2- 125,GSM5099001,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Female,86,84.93122,78.325516,-7.6744842529296875
-genomic DNA from peripheral blood SARS-COV-2- 150,GSM5099002,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,50,56.57559,51.92349,1.9234886169433594
-genomic DNA from peripheral blood SARS-COV-2- 84,GSM5099003,negative,,,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Female,47,53.766544,48.06718,1.0671806335449219
-genomic DNA from peripheral blood SARS-COV-2+ 42,GSM5099004,positive,2.0,Yes,No,5.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,40,52.71758,46.68467,6.684669494628906
-genomic DNA from peripheral blood SARS-COV-2- 37,GSM5099005,negative,,No,Yes,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,26,24.328402,24.180458,-1.8195419311523438
-genomic DNA from peripheral blood SARS-COV-2- 157,GSM5099006,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,67,73.08687,74.37508,7.3750762939453125
-genomic DNA from peripheral blood SARS-COV-2- 186,GSM5099007,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,57,56.24499,51.459515,-5.540485382080078
-genomic DNA from peripheral blood SARS-COV-2+ 82,GSM5099008,positive,3.0,No,Yes,53.0,Home,ICU,Hispanic or Latino,White,Male,33,37.247635,31.293316,-1.7066841125488281
-genomic DNA from peripheral blood SARS-COV-2+ 148,GSM5099009,positive,2.0,No,No,7.0,Home,Floor Admission,Hispanic or Latino,Other,Female,54,54.799156,49.460598,-4.539402008056641
-genomic DNA from peripheral blood SARS-COV-2+ 156,GSM5099010,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Male,58,59.598354,56.255863,-1.7441368103027344
-genomic DNA from peripheral blood SARS-COV-2- 174,GSM5099011,negative,,,No,,Other,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,64,59.19525,55.67087,-8.32912826538086
-genomic DNA from peripheral blood SARS-COV-2- 288,GSM5099012,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,63,63.030758,61.263172,-1.7368278503417969
-genomic DNA from peripheral blood SARS-COV-2+ 159,GSM5099013,positive,1.0,No,No,0.0,,Discharged,Hispanic or Latino,Other,Male,47,54.661297,49.27284,2.272838592529297
-genomic DNA from peripheral blood SARS-COV-2+ 144,GSM5099014,positive,1.0,No,No,0.0,,Discharged,Not Hispanic or Latino,White,Male,58,62.165222,60.00162,2.0016212463378906
-genomic DNA from peripheral blood SARS-COV-2- 292,GSM5099015,negative,,,Yes,,Home,ICU,Hispanic or Latino,Other,Female,30,27.319395,25.715443,-4.284557342529297
-genomic DNA from peripheral blood SARS-COV-2- 5,GSM5099016,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,88,87.58631,75.9451,-12.054901123046875
-genomic DNA from peripheral blood SARS-COV-2+ 17,GSM5099017,positive,1.0,Yes,No,0.0,Home,Discharged,Not Hispanic or Latino,BlackorAA,Male,18,25.330263,24.706486,6.706485748291016
-genomic DNA from peripheral blood SARS-COV-2- 13,GSM5099018,negative,,No,No,,Home,Discharged,Not Hispanic or Latino,White,Male,49,52.996635,47.049034,-1.9509658813476562
-genomic DNA from peripheral blood SARS-COV-2- 9,GSM5099019,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,58,68.31639,68.683075,10.683074951171875
-genomic DNA from peripheral blood SARS-COV-2+ 31,GSM5099020,positive,2.0,No,No,5.0,Death,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,60,59.81735,56.574306,-3.4256935119628906
-genomic DNA from peripheral blood SARS-COV-2+ 10,GSM5099021,positive,3.0,No,Yes,17.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,45,57.13135,52.7087,7.708698272705078
-genomic DNA from peripheral blood SARS-COV-2- 4,GSM5099022,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,,Female,51,56.468693,51.773212,0.7732124328613281
-genomic DNA from peripheral blood SARS-COV-2- 36,GSM5099023,negative,,No,No,,Home,Discharged,Not Hispanic or Latino,White,Male,59,65.474,64.77713,5.777130126953125
-genomic DNA from peripheral blood SARS-COV-2- 19,GSM5099024,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,71,71.025665,72.08757,1.0875701904296875
-genomic DNA from peripheral blood SARS-COV-2+ 9,GSM5099025,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,White,Female,50,57.60449,53.3818,3.3818016052246094
-genomic DNA from peripheral blood SARS-COV-2- 11,GSM5099026,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,83,70.84816,71.877014,-11.12298583984375
-genomic DNA from peripheral blood SARS-COV-2+ 26,GSM5099027,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,Other,Male,29,31.933924,28.079235,-0.9207649230957031
-genomic DNA from peripheral blood SARS-COV-2- 16,GSM5099028,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,59,60.33273,57.3251,-1.6749000549316406
-genomic DNA from peripheral blood SARS-COV-2+ 20,GSM5099029,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,,Female,32,43.748688,36.55461,4.5546112060546875
-genomic DNA from peripheral blood SARS-COV-2- 141,GSM5099030,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,66,67.03635,66.956985,0.9569854736328125
-genomic DNA from peripheral blood SARS-COV-2+ 77,GSM5099031,positive,3.0,No,Yes,,,ICU,Hispanic or Latino,Other,Male,27,29.910688,27.019352,0.019351959228515625
-genomic DNA from peripheral blood SARS-COV-2- 55,GSM5099032,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,61,61.6628,59.267727,-1.7322731018066406
-genomic DNA from peripheral blood SARS-COV-2- 177,GSM5099033,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,64,66.929756,66.81056,2.8105621337890625
-genomic DNA from peripheral blood SARS-COV-2- 62,GSM5099034,negative,,No,Yes,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,56,65.20484,64.39519,8.395187377929688
-genomic DNA from peripheral blood SARS-COV-2- 161,GSM5099035,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,58,60.062954,56.93191,-1.0680885314941406
-genomic DNA from peripheral blood SARS-COV-2- 144,GSM5099036,negative,,,Yes,,Home,Floor Admission,Hispanic or Latino,Other,Female,70,64.829025,63.85928,-6.140720367431641
-genomic DNA from peripheral blood SARS-COV-2- 154,GSM5099037,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,89,89.80697,72.675415,-16.3245849609375
-genomic DNA from peripheral blood SARS-COV-2- 172,GSM5099038,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,60,59.81973,56.57777,-3.422229766845703
-genomic DNA from peripheral blood SARS-COV-2+ 47,GSM5099039,positive,3.0,No,Yes,1.0,Home,ICU,Not Hispanic or Latino,White,Male,59,61.677753,59.28957,0.2895698547363281
-genomic DNA from peripheral blood SARS-COV-2- 128,GSM5099040,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Male,71,63.49764,61.941235,-9.058765411376953
-genomic DNA from peripheral blood SARS-COV-2+ 22,GSM5099041,positive,2.0,No,No,7.0,Home,Floor Admission,Hispanic or Latino,Other,Male,34,46.756042,39.58448,5.584480285644531
-genomic DNA from peripheral blood SARS-COV-2- 21,GSM5099042,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,64,62.12693,59.94572,-4.054279327392578
-genomic DNA from peripheral blood OtherInfection 5,GSM5099043,other infection,,No,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,68,60.282585,57.25198,-10.74802017211914
-genomic DNA from peripheral blood SARS-COV-2+ 8,GSM5099044,positive,2.0,No,No,1.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Male,58,62.336952,60.252262,2.2522621154785156
-genomic DNA from peripheral blood SARS-COV-2- 33,GSM5099045,negative,,No,No,,Home,Floor Admission,Hispanic or Latino,,Female,39,48.685772,41.730114,2.730113983154297
-genomic DNA from peripheral blood SARS-COV-2- 32,GSM5099046,negative,,No,No,,,Floor Admission,Not Hispanic or Latino,White,Male,52,55.56977,50.51955,-1.4804496765136719
-genomic DNA from peripheral blood SARS-COV-2+ 25,GSM5099047,positive,2.0,No,No,5.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,37,55.29075,50.13435,13.134349822998047
-genomic DNA from peripheral blood SARS-COV-2+ 3,GSM5099048,positive,3.0,No,Yes,47.0,Home,Floor Admission,Hispanic or Latino,Other,Male,39,53.048935,47.117615,8.11761474609375
-genomic DNA from peripheral blood SARS-COV-2- 159,GSM5099049,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,46,51.159077,44.69831,-1.3016891479492188
-genomic DNA from peripheral blood SARS-COV-2+ 27,GSM5099050,positive,3.0,No,Yes,,,ICU,Not Hispanic or Latino,BlackorAA,Male,57,66.35046,66.00859,9.008590698242188
-genomic DNA from peripheral blood SARS-COV-2+ 11,GSM5099051,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,,Female,34,42.53745,35.44362,1.4436187744140625
-genomic DNA from peripheral blood SARS-COV-2- 29,GSM5099052,negative,,No,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Male,90,76.21648,77.168976,-12.831024169921875
-genomic DNA from peripheral blood SARS-COV-2- 20,GSM5099053,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,19,21.014898,22.26347,3.263469696044922
-genomic DNA from peripheral blood SARS-COV-2+ 18,GSM5099054,positive,2.0,Yes,No,2.0,Home,Floor Admission,Hispanic or Latino,,Female,30,37.235863,31.285252,1.2852516174316406
-genomic DNA from peripheral blood OtherInfection 2,GSM5099055,other infection,,No,No,,Death,Floor Admission,Not Hispanic or Latino,White,Male,55,63.492058,61.933125,6.933124542236328
-genomic DNA from peripheral blood SARS-COV-2+ 12,GSM5099056,positive,2.0,No,No,2.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,63,65.38067,64.64491,1.6449127197265625
-genomic DNA from peripheral blood SARS-COV-2- 28,GSM5099057,negative,,No,No,,Home,Floor Admission,Hispanic or Latino,,Female,96,77.78338,78.18465,-17.815353393554688
-genomic DNA from peripheral blood SARS-COV-2- 143,GSM5099058,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,61,68.44738,68.85605,7.856048583984375
-genomic DNA from peripheral blood SARS-COV-2- 56,GSM5099059,negative,,No,Yes,,Home,ICU,Not Hispanic or Latino,NativeHawaiianorPacificIslander,Female,68,69.06309,69.6588,1.6587982177734375
-genomic DNA from peripheral blood SARS-COV-2- 86,GSM5099060,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,Asian,Male,71,65.398674,64.67044,-6.329559326171875
-genomic DNA from peripheral blood SARS-COV-2+ 88,GSM5099061,positive,4.0,No,Yes,,Death,ICU,Not Hispanic or Latino,Asian,Male,43,56.09726,51.25292,8.252918243408203
-genomic DNA from peripheral blood SARS-COV-2- 45,GSM5099062,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,76,68.27969,68.63449,-7.365509033203125
-genomic DNA from peripheral blood SARS-COV-2- 130,GSM5099063,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,70,65.84587,65.30208,-4.6979217529296875
-genomic DNA from peripheral blood SARS-COV-2- 122,GSM5099064,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,43,51.177727,44.72158,1.7215805053710938
-genomic DNA from peripheral blood SARS-COV-2- 61,GSM5099065,negative,,,No,,,Floor Admission,Hispanic or Latino,Other,Female,61,63.382446,61.774136,0.7741355895996094
-genomic DNA from peripheral blood SARS-COV-2- 146,GSM5099066,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,43,49.498535,42.67931,-0.3206901550292969
-genomic DNA from peripheral blood SARS-COV-2- 12,GSM5099067,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,59,60.816742,58.03152,-0.9684791564941406
-genomic DNA from peripheral blood SARS-COV-2+ 37,GSM5099068,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,30,37.525307,31.484688,1.4846878051757812
-genomic DNA from peripheral blood SARS-COV-2- 22,GSM5099069,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,Asian,Female,65,67.476456,67.55742,2.5574188232421875
-genomic DNA from peripheral blood SARS-COV-2+ 6,GSM5099070,positive,3.0,No,Yes,15.0,Home,Floor Admission,Not Hispanic or Latino,White,Male,67,68.25848,68.60635,1.606353759765625
-genomic DNA from peripheral blood SARS-COV-2+ 30,GSM5099071,positive,2.0,No,No,6.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Male,83,80.852974,79.252,-3.7480010986328125
-genomic DNA from peripheral blood SARS-COV-2+ 16,GSM5099072,positive,3.0,Yes,Yes,20.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,48,55.212612,50.026844,2.026844024658203
-genomic DNA from peripheral blood SARS-COV-2- 30,GSM5099073,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,81,73.716156,75.00882,-5.991180419921875
-genomic DNA from peripheral blood SARS-COV-2- 2,GSM5099074,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,62,67.493935,67.58113,5.5811309814453125
-genomic DNA from peripheral blood SARS-COV-2- 68,GSM5099075,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,28,36.77642,30.974625,2.9746246337890625
-genomic DNA from peripheral blood SARS-COV-2- 54,GSM5099076,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,30,40.640247,33.82742,3.8274192810058594
-genomic DNA from peripheral blood SARS-COV-2- 79,GSM5099077,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,76,74.09963,75.37851,-0.621490478515625
-genomic DNA from peripheral blood SARS-COV-2- 91,GSM5099078,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,63,60.14398,57.049953,-5.950046539306641
-genomic DNA from peripheral blood SARS-COV-2- 185,GSM5099079,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Male,43,56.19418,51.388393,8.38839340209961
-genomic DNA from peripheral blood SARS-COV-2- 53,GSM5099080,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,38,42.68617,35.57668,-2.423320770263672
-genomic DNA from peripheral blood SARS-COV-2- 17,GSM5099081,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,78,67.10192,67.046875,-10.953125
-genomic DNA from peripheral blood SARS-COV-2- 66,GSM5099082,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,72,76.253296,77.196014,5.196014404296875
-genomic DNA from peripheral blood SARS-COV-2- 26,GSM5099083,negative,,No,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,63,67.462776,67.53882,4.538818359375
-genomic DNA from peripheral blood SARS-COV-2+ 13,GSM5099084,positive,2.0,No,No,2.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,51,53.807518,48.12188,-2.8781204223632812
-genomic DNA from peripheral blood SARS-COV-2+ 14,GSM5099085,positive,2.0,No,No,3.0,Home,Floor Admission,Not Hispanic or Latino,White,Male,84,83.8169,78.88191,-5.1180877685546875
-genomic DNA from peripheral blood SARS-COV-2- 14,GSM5099086,negative,,No,No,,Home,Discharged,Not Hispanic or Latino,White,Female,30,27.707287,25.909618,-4.090381622314453
-genomic DNA from peripheral blood SARS-COV-2+ 24,GSM5099087,positive,2.0,No,No,7.0,Home,Floor Admission,Hispanic or Latino,Other,Female,39,52.339817,46.195515,7.195514678955078
-genomic DNA from peripheral blood SARS-COV-2+ 33,GSM5099088,positive,3.0,No,Yes,8.0,Home,Floor Admission,Hispanic or Latino,Other,Male,64,66.77652,66.59944,2.5994415283203125
-genomic DNA from peripheral blood SARS-COV-2- 24,GSM5099089,negative,,Yes,No,,Home,Discharged,Not Hispanic or Latino,White,Female,82,68.55132,68.99278,-13.007217407226562
-genomic DNA from peripheral blood SARS-COV-2+ 48,GSM5099090,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,30,39.361107,32.820374,2.82037353515625
-genomic DNA from peripheral blood SARS-COV-2- 136,GSM5099091,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Female,95,78.49037,78.54527,-16.454727172851562
-genomic DNA from peripheral blood SARS-COV-2- 183,GSM5099092,negative,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,White,Male,87,73.49296,74.78784,-12.212158203125
-genomic DNA from peripheral blood SARS-COV-2- 82,GSM5099093,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,40,51.59252,45.24222,5.242221832275391
-genomic DNA from peripheral blood SARS-COV-2+ 84,GSM5099094,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,Asian,Female,18,23.698225,23.839783,5.83978271484375
-genomic DNA from peripheral blood SARS-COV-2- 129,GSM5099095,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,68,61.13245,58.492718,-9.507282257080078
-genomic DNA from peripheral blood SARS-COV-2- 83,GSM5099096,negative,,,Yes,,Death,ICU,Not Hispanic or Latino,White,Female,62,63.006115,61.227352,-0.7726478576660156
-genomic DNA from peripheral blood SARS-COV-2- 76,GSM5099097,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,61,65.34308,64.59155,3.591552734375
-genomic DNA from peripheral blood SARS-COV-2- 151,GSM5099098,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,90,77.52914,78.0396,-11.960403442382812
-genomic DNA from peripheral blood SARS-COV-2+ 54,GSM5099099,positive,3.0,No,Yes,41.0,Other,Floor Admission,Not Hispanic or Latino,White,Male,58,61.34277,58.800045,0.8000450134277344
-genomic DNA from peripheral blood SARS-COV-2- 134,GSM5099100,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,35,50.128002,43.4323,8.432300567626953
-genomic DNA from peripheral blood SARS-COV-2- 58,GSM5099101,negative,,No,Yes,,Nursing home or skilled rehab,ICU,Hispanic or Latino,Other,Male,41,48.779278,41.83799,0.8379898071289062
-genomic DNA from peripheral blood SARS-COV-2- 178,GSM5099102,negative,,,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Female,86,80.56523,79.209946,-6.7900543212890625
-genomic DNA from peripheral blood SARS-COV-2- 41,GSM5099103,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,62,64.05622,62.74921,0.7492103576660156
-genomic DNA from peripheral blood SARS-COV-2- 70,GSM5099104,negative,,,No,,Home,Discharged,Not Hispanic or Latino,Other,Female,46,53.301212,47.449604,1.4496040344238281
-genomic DNA from peripheral blood SARS-COV-2- 74,GSM5099105,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,36,40.099865,33.394066,-2.6059341430664062
-genomic DNA from peripheral blood SARS-COV-2+ 76,GSM5099106,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,Other,Female,28,36.649,30.88974,2.889739990234375
-genomic DNA from peripheral blood SARS-COV-2- 64,GSM5099107,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,83,80.361694,79.17241,-3.8275909423828125
-genomic DNA from peripheral blood SARS-COV-2- 135,GSM5099108,negative,,,No,,Other,Floor Admission,Not Hispanic or Latino,White,Male,28,34.872936,29.760311,1.7603111267089844
-genomic DNA from peripheral blood SARS-COV-2- 49,GSM5099109,negative,,,,,,,Not Hispanic or Latino,White,Female,82,70.53708,71.50336,-10.49664306640625
-genomic DNA from peripheral blood SARS-COV-2- 85,GSM5099110,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,54,60.65679,57.797955,3.797954559326172
-genomic DNA from peripheral blood SARS-COV-2+ 39,GSM5099111,positive,1.0,No,No,0.0,Death,Discharged,Not Hispanic or Latino,White,Male,50,50.163864,43.47568,-6.524318695068359
-genomic DNA from peripheral blood SARS-COV-2- 35,GSM5099112,negative,,Yes,Yes,,,Death,Hispanic or Latino,,Female,32,32.262478,28.257584,-3.7424163818359375
-genomic DNA from peripheral blood SARS-COV-2- 38,GSM5099113,negative,,No,Yes,,Death,Floor Admission,Not Hispanic or Latino,White,Male,68,69.13525,69.75171,1.751708984375
-genomic DNA from peripheral blood SARS-COV-2+ 29,GSM5099114,positive,2.0,No,No,8.0,Home,Floor Admission,Hispanic or Latino,Other,Male,45,50.7908,44.24157,-0.7584304809570312
-genomic DNA from peripheral blood SARS-COV-2+ 4,GSM5099115,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,,Female,62,61.390907,58.87041,-3.129589080810547
-genomic DNA from peripheral blood SARS-COV-2- 25,GSM5099116,negative,,No,No,,Death,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,76,65.46243,64.76074,-11.2392578125
-genomic DNA from peripheral blood SARS-COV-2+ 19,GSM5099117,positive,2.0,No,No,7.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Female,67,66.26654,65.891525,-1.1084747314453125
-genomic DNA from peripheral blood SARS-COV-2- 187,GSM5099118,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,36,50.39631,43.75791,7.757911682128906
-genomic DNA from peripheral blood SARS-COV-2- 60,GSM5099119,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,53,58.424625,54.55752,1.5575218200683594
-genomic DNA from peripheral blood SARS-COV-2- 162,GSM5099120,negative,,,No,,Other,Floor Admission,Hispanic or Latino,White,Male,47,52.261074,46.094143,-0.9058570861816406
-genomic DNA from peripheral blood SARS-COV-2+ 7,GSM5099121,positive,2.0,No,No,7.0,Home,Floor Admission,Hispanic or Latino,,Female,25,27.298498,25.704975,0.7049751281738281
-genomic DNA from peripheral blood SARS-COV-2- 6,GSM5099122,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,56,65.29852,64.52832,8.5283203125
-genomic DNA from peripheral blood SARS-COV-2- 23,GSM5099123,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,62,66.940056,66.82477,4.82476806640625
-genomic DNA from peripheral blood SARS-COV-2+ 1,GSM5099124,positive,3.0,No,Yes,7.0,Home,Floor Admission,Hispanic or Latino,Other,Male,52,57.424644,53.12546,1.1254615783691406
-genomic DNA from peripheral blood SARS-COV-2- 31,GSM5099125,negative,,No,No,,Home,Discharged,Hispanic or Latino,White,Male,43,53.944847,48.30558,5.305580139160156
-genomic DNA from peripheral blood SARS-COV-2+ 40,GSM5099126,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,White,Female,40,44.4177,37.19512,-2.8048782348632812
-genomic DNA from peripheral blood SARS-COV-2- 10,GSM5099127,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,41,46.924854,39.765995,-1.2340049743652344
-genomic DNA from peripheral blood SARS-COV-2+ 21,GSM5099128,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,BlackorAA,Male,33,45.521656,38.29404,5.294040679931641
-genomic DNA from peripheral blood SARS-COV-2- 179,GSM5099129,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,55,57.284027,52.92545,-2.0745506286621094
-genomic DNA from peripheral blood SARS-COV-2+ 46,GSM5099130,positive,2.0,Yes,No,2.0,Home,Floor Admission,Hispanic or Latino,Other,Male,39,41.445786,34.495434,-4.504566192626953
-genomic DNA from peripheral blood SARS-COV-2- 50,GSM5099131,negative,,,Yes,,Other,ICU,Not Hispanic or Latino,White,Male,57,64.56832,63.48595,6.485950469970703
-genomic DNA from peripheral blood SARS-COV-2- 182,GSM5099132,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,58,66.21048,65.81328,7.8132781982421875
-genomic DNA from peripheral blood SARS-COV-2- 155,GSM5099133,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,77,74.44004,75.695724,-1.3042755126953125
-genomic DNA from peripheral blood SARS-COV-2- 43,GSM5099134,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Female,27,30.12708,27.130135,0.13013458251953125
-genomic DNA from peripheral blood SARS-COV-2- 142,GSM5099135,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,74,69.185295,69.81601,-4.183990478515625
-genomic DNA from peripheral blood SARS-COV-2+ 89,GSM5099136,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,73,66.10148,65.66084,-7.3391571044921875
-genomic DNA from peripheral blood SARS-COV-2+ 90,GSM5099137,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,28,40.802334,33.95971,5.959709167480469
-genomic DNA from peripheral blood SARS-COV-2- 152,GSM5099138,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,20,25.354845,24.719193,4.7191925048828125
-genomic DNA from peripheral blood SARS-COV-2- 173,GSM5099139,negative,,,No,,Other,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,64,57.17207,52.766453,-11.23354721069336
-genomic DNA from peripheral blood SARS-COV-2- 137,GSM5099140,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,76,78.08567,78.346664,2.3466644287109375
-genomic DNA from peripheral blood SARS-COV-2- 176,GSM5099141,negative,,No,Yes,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,69,64.04109,62.727367,-6.272632598876953
-genomic DNA from peripheral blood SARS-COV-2- 175,GSM5099142,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,77,67.4391,67.50673,-9.493270874023438
-genomic DNA from peripheral blood SARS-COV-2- 139,GSM5099143,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,68,70.42695,71.369644,3.3696441650390625
-genomic DNA from peripheral blood SARS-COV-2- 71,GSM5099144,negative,,,No,,,Floor Admission,Not Hispanic or Latino,White,Female,35,31.93603,28.08038,-6.919620513916016
-genomic DNA from peripheral blood SARS-COV-2- 160,GSM5099145,negative,,,No,,,Discharged,Hispanic or Latino,White,Female,29,29.182276,26.649593,-2.3504066467285156
-genomic DNA from peripheral blood SARS-COV-2- 78,GSM5099146,negative,,No,Yes,,,ICU,Hispanic or Latino,Other,Male,53,54.292645,48.773277,-4.226722717285156
-genomic DNA from peripheral blood SARS-COV-2- 94,GSM5099147,negative,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,AmericanIndianorAlaskanNative,Female,39,46.761333,39.590168,0.5901679992675781
-genomic DNA from peripheral blood SARS-COV-2- 148,GSM5099148,negative,,,,,Home,Floor Admission,Not Hispanic or Latino,White,Female,73,65.85955,65.32127,-7.6787261962890625
-genomic DNA from peripheral blood SARS-COV-2+ 53,GSM5099149,positive,2.0,No,No,12.0,Other,Floor Admission,Not Hispanic or Latino,White,Male,76,79.79241,79.034485,3.03448486328125
-genomic DNA from peripheral blood SARS-COV-2+ 55,GSM5099150,positive,2.0,No,No,12.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,79,72.517555,73.77417,-5.225830078125
-genomic DNA from peripheral blood SARS-COV-2- 80,GSM5099151,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,58,59.739067,56.46043,-1.5395698547363281
-genomic DNA from peripheral blood SARS-COV-2- 93,GSM5099152,negative,,No,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,BlackorAA,Male,72,80.44194,79.1879,7.187896728515625
-genomic DNA from peripheral blood SARS-COV-2+ 79,GSM5099153,positive,3.0,No,Yes,10.0,Home,ICU,Hispanic or Latino,Other,Male,36,37.859585,31.718697,-4.281303405761719
-genomic DNA from peripheral blood SARS-COV-2- 167,GSM5099154,negative,,,No,,Other,Floor Admission,Not Hispanic or Latino,White,Male,35,45.42148,38.192158,3.192157745361328
-genomic DNA from peripheral blood SARS-COV-2- 158,GSM5099155,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,57,61.974815,59.723553,2.723552703857422
-genomic DNA from peripheral blood SARS-COV-2- 126,GSM5099156,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,33,47.467632,40.357697,7.357696533203125
-genomic DNA from peripheral blood SARS-COV-2- 168,GSM5099157,negative,,No,No,,Other,Floor Admission,Not Hispanic or Latino,White,Male,73,64.2488,63.02673,-9.973270416259766
-genomic DNA from peripheral blood SARS-COV-2- 52,GSM5099158,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,Other,Male,65,59.448105,56.037655,-8.962345123291016
-genomic DNA from peripheral blood SARS-COV-2+ 49,GSM5099159,positive,3.0,No,Yes,12.0,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,63,57.367382,53.043964,-9.956035614013672
-genomic DNA from peripheral blood OtherInfection 6,GSM5099160,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,30,29.12433,26.620361,-3.379638671875
-genomic DNA from peripheral blood SARS-COV-2- 166,GSM5099161,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,43,57.416813,53.114323,10.114322662353516
-genomic DNA from peripheral blood SARS-COV-2- 132,GSM5099162,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,76,69.62731,70.378494,-5.6215057373046875
-genomic DNA from peripheral blood SARS-COV-2- 133,GSM5099163,negative,,,No,,,Floor Admission,Not Hispanic or Latino,White,Female,84,75.27596,76.42844,-7.571563720703125
-genomic DNA from peripheral blood SARS-COV-2- 88,GSM5099164,negative,,No,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,67,65.54502,64.87767,-2.1223297119140625
-genomic DNA from peripheral blood SARS-COV-2- 69,GSM5099165,negative,,,No,,Other,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,58,55.357014,50.22565,-7.774349212646484
-genomic DNA from peripheral blood SARS-COV-2- 1,GSM5099166,negative,,Yes,Yes,,Home,Floor Admission,Hispanic or Latino,,Female,24,24.719053,24.387596,0.38759613037109375
-genomic DNA from peripheral blood SARS-COV-2+ 36,GSM5099167,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,30,42.128727,35.082767,5.082767486572266
-genomic DNA from peripheral blood SARS-COV-2- 7,GSM5099168,negative,,Yes,Yes,,Home,Floor Admission,Hispanic or Latino,,Male,46,63.23193,61.555576,15.55557632446289
-genomic DNA from peripheral blood OtherInfection 3,GSM5099169,other infection,,Yes,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,77,71.79947,72.98161,-4.0183868408203125
-genomic DNA from peripheral blood SARS-COV-2+ 35,GSM5099170,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,White,Female,56,56.48467,51.79566,-4.204341888427734
-genomic DNA from peripheral blood SARS-COV-2+ 38,GSM5099171,positive,2.0,No,No,2.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,65,64.767426,63.77119,-1.2288093566894531
-genomic DNA from peripheral blood SARS-COV-2+ 23,GSM5099172,positive,2.0,No,No,2.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,42,48.080837,41.04093,-0.9590682983398438
-genomic DNA from peripheral blood SARS-COV-2- 3,GSM5099173,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,81,68.978004,69.548874,-11.451126098632812
-genomic DNA from peripheral blood SARS-COV-2- 15,GSM5099174,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,80,69.15302,69.77455,-10.225448608398438
-genomic DNA from peripheral blood SARS-COV-2- 18,GSM5099175,negative,,No,,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,59,56.677006,52.06631,-6.933689117431641
-genomic DNA from peripheral blood SARS-COV-2+ 2,GSM5099176,positive,2.0,No,No,4.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Female,25,37.121273,31.207111,6.207111358642578
-genomic DNA from peripheral blood SARS-COV-2+ 28,GSM5099177,positive,3.0,No,Yes,10.0,Home,Floor Admission,Hispanic or Latino,Other,Female,28,40.490395,33.706085,5.706085205078125
-genomic DNA from peripheral blood SARS-COV-2+ 41,GSM5099178,positive,2.0,No,No,4.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,53,61.595314,59.169125,6.169124603271484
-genomic DNA from peripheral blood SARS-COV-2+ 32,GSM5099179,positive,3.0,No,Yes,3.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,43,53.128704,47.22238,4.222381591796875
-genomic DNA from peripheral blood SARS-COV-2- 27,GSM5099180,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,25,29.697397,26.91061,1.9106101989746094
-genomic DNA from peripheral blood SARS-COV-2+ 85,GSM5099181,positive,2.0,No,No,11.0,Home,Floor Admission,Hispanic or Latino,Other,Male,33,32.555283,28.4183,-4.581699371337891
-genomic DNA from peripheral blood SARS-COV-2- 169,GSM5099182,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,32,34.241985,29.381477,-2.6185226440429688
-genomic DNA from peripheral blood SARS-COV-2- 170,GSM5099183,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,56,59.258053,55.761906,-0.23809432983398438
-genomic DNA from peripheral blood SARS-COV-2- 180,GSM5099184,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,83,75.93229,76.95503,-6.0449676513671875
-genomic DNA from peripheral blood SARS-COV-2+ 50,GSM5099185,positive,2.0,No,No,18.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,70,65.98218,65.493576,-4.5064239501953125
-genomic DNA from peripheral blood SARS-COV-2+ 58,GSM5099186,positive,3.0,No,Yes,13.0,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,BlackorAA,Female,81,66.08776,65.6416,-15.3583984375
-genomic DNA from peripheral blood OtherInfection 4,GSM5099187,other infection,,Yes,No,,Home,Discharged,Not Hispanic or Latino,White,Female,47,52.4586,46.348816,-0.65118408203125
-genomic DNA from peripheral blood SARS-COV-2+ 15,GSM5099188,positive,2.0,No,,,Home,Floor Admission,Hispanic or Latino,,Male,62,62.099163,59.905186,-2.0948143005371094
-genomic DNA from peripheral blood OtherInfection 1,GSM5099189,other infection,,Yes,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Male,49,54.919792,49.625336,0.625335693359375
-genomic DNA from peripheral blood SARS-COV-2- 34,GSM5099190,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,42,58.009953,53.96175,11.961750030517578
-genomic DNA from peripheral blood SARS-COV-2+ 34,GSM5099191,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,White,Male,52,54.677006,49.29419,-2.705810546875
-genomic DNA from peripheral blood SARS-COV-2- 8,GSM5099192,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,57,59.87022,56.651257,-0.3487434387207031
-genomic DNA from peripheral blood SARS-COV-2+ 5,GSM5099193,positive,2.0,No,No,5.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,43,51.701992,45.380642,2.3806419372558594
-genomic DNA from peripheral blood SARS-COV-2- 131,GSM5099194,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,30,31.239061,27.708427,-2.2915725708007812
-genomic DNA from peripheral blood SARS-COV-2- 75,GSM5099195,negative,,,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Male,69,68.85787,69.39317,0.3931732177734375
-genomic DNA from peripheral blood SARS-COV-2- 138,GSM5099196,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,59,57.136227,52.715565,-6.284435272216797
-genomic DNA from peripheral blood SARS-COV-2- 92,GSM5099197,negative,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,White,Male,72,72.11451,73.33394,1.3339385986328125
-genomic DNA from peripheral blood SARS-COV-2- 156,GSM5099198,negative,,No,Yes,,Home,Floor Admission,Hispanic or Latino,Other,Female,63,62.895237,61.06599,-1.9340095520019531
-genomic DNA from peripheral blood SARS-COV-2- 163,GSM5099199,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,42,56.07491,51.22173,9.221729278564453
-genomic DNA from peripheral blood SARS-COV-2+ 81,GSM5099200,positive,2.0,No,No,8.0,Home,Floor Admission,Not Hispanic or Latino,White,Male,73,71.9297,73.12808,0.128082275390625
-genomic DNA from peripheral blood SARS-COV-2- 153,GSM5099201,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,72,71.05363,72.120544,0.12054443359375
-genomic DNA from peripheral blood SARS-COV-2- 145,GSM5099202,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,51,58.231228,54.27936,3.2793617248535156
-genomic DNA from peripheral blood SARS-COV-2+ 43,GSM5099203,positive,2.0,No,No,15.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,73,73.59736,74.89172,1.8917236328125
-genomic DNA from peripheral blood SARS-COV-2+ 59,GSM5099204,positive,3.0,,Yes,17.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,AmericanIndianorAlaskanNative,Female,65,64.55944,63.473186,-1.5268135070800781
-genomic DNA from peripheral blood SARS-COV-2- 149,GSM5099205,negative,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,64,72.15335,73.37689,9.37689208984375
-genomic DNA from peripheral blood SARS-COV-2- 188,GSM5099206,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,63,70.78601,71.80284,8.802841186523438
-genomic DNA from peripheral blood SARS-COV-2- 72,GSM5099207,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,93,83.31667,79.05368,-13.946319580078125
-genomic DNA from peripheral blood SARS-COV-2- 90,GSM5099208,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,89,75.75597,76.81793,-12.18206787109375
-genomic DNA from peripheral blood SARS-COV-2- 189,GSM5099209,negative,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,White,Female,32,37.001728,31.126053,-0.8739471435546875
-genomic DNA from peripheral blood SARS-COV-2+ 86,GSM5099210,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,48,50.90985,44.38868,-3.6113204956054688
-genomic DNA from peripheral blood SARS-COV-2- 65,GSM5099211,negative,,,Yes,,,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,37,44.18028,36.965603,-0.034397125244140625
-genomic DNA from peripheral blood SARS-COV-2- 57,GSM5099212,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,53,59.883602,56.670734,3.670734405517578
-genomic DNA from peripheral blood SARS-COV-2- 51,GSM5099213,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,88,84.77688,78.41731,-9.582687377929688
-genomic DNA from peripheral blood SARS-COV-2+ 83,GSM5099214,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,Other,Female,58,62.548515,60.56084,2.560840606689453
-genomic DNA from peripheral blood SARS-COV-2- 165,GSM5099215,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,38,47.0805,39.934414,1.9344139099121094
-genomic DNA from peripheral blood SARS-COV-2- 127,GSM5099216,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,68,62.190945,60.039143,-7.960857391357422
-genomic DNA from peripheral blood SARS-COV-2+ 56,GSM5099217,positive,3.0,No,Yes,32.0,Nursing home or skilled rehab,ICU,Hispanic or Latino,Other,Female,34,38.96865,32.52425,-1.4757499694824219
-genomic DNA from peripheral blood SARS-COV-2- 73,GSM5099218,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,65,63.770424,62.336308,-2.6636924743652344
-genomic DNA from peripheral blood SARS-COV-2+ 80,GSM5099219,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,49,57.425907,53.127262,4.127262115478516
-genomic DNA from peripheral blood SARS-COV-2- 121,GSM5099220,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,25,28.070295,26.091244,1.0912437438964844
-genomic DNA from peripheral blood SARS-COV-2+ 78,GSM5099221,positive,3.0,No,Yes,8.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,30,26.442194,25.274342,-4.725658416748047
-genomic DNA from peripheral blood SARS-COV-2- 140,GSM5099222,negative,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,72,68.403465,68.79813,-3.201873779296875
-genomic DNA from peripheral blood SARS-COV-2- 39,GSM5099223,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,58,62.03783,59.81558,1.8155784606933594
-genomic DNA from peripheral blood SARS-COV-2- 48,GSM5099224,negative,,No,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,75,65.098274,64.243515,-10.756484985351562
-genomic DNA from peripheral blood SARS-COV-2- 181,GSM5099225,negative,,No,Yes,,,ICU,Hispanic or Latino,Other,Male,52,51.9528,45.699398,-6.300601959228516
-genomic DNA from peripheral blood SARS-COV-2- 44,GSM5099226,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,45,45.061428,37.829556,-7.170444488525391
-genomic DNA from peripheral blood SARS-COV-2- 47,GSM5099227,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,60,56.46394,51.766537,-8.233463287353516
-genomic DNA from peripheral blood SARS-COV-2- 81,GSM5099228,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,64,70.11479,70.98697,6.986968994140625
-genomic DNA from peripheral blood SARS-COV-2+ 87,GSM5099229,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,43,53.19701,47.312214,4.312213897705078
-genomic DNA from peripheral blood SARS-COV-2- 42,GSM5099230,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,72,69.75343,70.537155,-1.4628448486328125
-genomic DNA from peripheral blood SARS-COV-2- 46,GSM5099231,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,92,78.89287,78.72142,-13.278579711914062
-genomic DNA from peripheral blood SARS-COV-2+ 57,GSM5099232,positive,4.0,No,Yes,,Death,Floor Admission,Not Hispanic or Latino,NativeHawaiianorPacificIslander,Male,43,51.32645,44.907543,1.9075431823730469
-genomic DNA from peripheral blood SARS-COV-2- 218,GSM5099233,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,Asian,Female,60,64.073265,62.77376,2.773761749267578
-genomic DNA from peripheral blood SARS-COV-2- 239,GSM5099234,negative,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,26,31.786266,27.99974,1.9997406005859375
-genomic DNA from peripheral blood SARS-COV-2- 277,GSM5099235,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,54,58.689114,54.93881,0.9388084411621094
-genomic DNA from peripheral blood SARS-COV-2+ 118,GSM5099236,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,White,Male,44,52.978218,47.024906,3.0249061584472656
-genomic DNA from peripheral blood SARS-COV-2- 275,GSM5099237,negative,,,Yes,,,ICU,Not Hispanic or Latino,Asian,Female,67,65.39847,64.670135,-2.329864501953125
-genomic DNA from peripheral blood SARS-COV-2+ 117,GSM5099238,positive,2.0,No,No,12.0,Home,Floor Admission,Hispanic or Latino,Other,Male,53,58.68153,54.927876,1.9278755187988281
-genomic DNA from peripheral blood SARS-COV-2- 242,GSM5099239,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Male,74,69.41822,70.11362,-3.886383056640625
-genomic DNA from peripheral blood SARS-COV-2- 246,GSM5099240,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,44,49.953728,43.222313,-0.7776870727539062
-genomic DNA from peripheral blood SARS-COV-2+ 119,GSM5099241,positive,2.0,No,No,6.0,Home,Floor Admission,Hispanic or Latino,Other,Female,48,57.534924,53.28258,5.282581329345703
-genomic DNA from peripheral blood SARS-COV-2- 195,GSM5099242,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,63,69.32459,69.99434,6.9943389892578125
-genomic DNA from peripheral blood SARS-COV-2- 209,GSM5099243,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,33,34.329346,29.433296,-3.5667037963867188
-genomic DNA from peripheral blood SARS-COV-2- 247,GSM5099244,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,59,59.5911,56.245342,-2.754657745361328
-genomic DNA from peripheral blood SARS-COV-2- 219,GSM5099245,negative,,,No,,Home,Floor Admission,,,Female,18,21.00504,22.257202,4.2572021484375
-genomic DNA from peripheral blood SARS-COV-2+ 122,GSM5099246,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,69,64.4746,63.35142,-5.648578643798828
-genomic DNA from peripheral blood SARS-COV-2- 236,GSM5099247,negative,,,No,,,Discharged,Hispanic or Latino,Other,Female,52,58.16611,54.185802,2.185802459716797
-genomic DNA from peripheral blood SARS-COV-2+ 103,GSM5099248,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,49,53.189426,47.30224,-1.6977615356445312
-genomic DNA from peripheral blood SARS-COV-2- 97,GSM5099249,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,47,53.052338,47.122063,0.12206268310546875
-genomic DNA from peripheral blood SARS-COV-2- 200,GSM5099250,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,34,49.72018,42.942688,8.94268798828125
-genomic DNA from peripheral blood SARS-COV-2- 198,GSM5099251,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,56,60.155964,57.067432,1.0674324035644531
-genomic DNA from peripheral blood OtherInfection 38,GSM5099252,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,71,71.91149,73.10773,2.10772705078125
-genomic DNA from peripheral blood OtherInfection 39,GSM5099253,other infection,,,No,,Home,Discharged,Hispanic or Latino,Other,Male,40,49.88045,43.134335,3.1343345642089844
-genomic DNA from peripheral blood OtherInfection 58,GSM5099254,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,19,18.737638,20.693306,1.6933059692382812
-genomic DNA from peripheral blood SARS-COV-2- 113,GSM5099255,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,87,78.75852,78.66502,-8.334976196289062
-genomic DNA from peripheral blood SARS-COV-2+ 71,GSM5099256,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,Other,Male,32,41.548977,34.58293,2.5829315185546875
-genomic DNA from peripheral blood OtherInfection 61,GSM5099257,other infection,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,36,44.072956,36.86267,0.8626708984375
-genomic DNA from peripheral blood OtherInfection 49,GSM5099258,other infection,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,79,74.32804,75.5925,-3.407501220703125
-genomic DNA from peripheral blood OtherInfection 33,GSM5099259,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,42,51.773907,45.471817,3.4718170166015625
-genomic DNA from peripheral blood SARS-COV-2+ 74,GSM5099260,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,25,31.738882,27.974312,2.9743118286132812
-genomic DNA from peripheral blood OtherInfection 52,GSM5099261,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,82,66.134895,65.70758,-16.29241943359375
-genomic DNA from peripheral blood OtherInfection 31,GSM5099262,other infection,,,No,,Other,Discharged,Hispanic or Latino,Other,Male,45,51.16447,44.705044,-0.2949562072753906
-genomic DNA from peripheral blood SARS-COV-2+ 63,GSM5099263,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,60,57.999733,53.94708,-6.052921295166016
-genomic DNA from peripheral blood OtherInfection 63,GSM5099264,other infection,,,No,,,Discharged,Not Hispanic or Latino,White,Female,64,66.65952,66.43776,2.4377593994140625
-genomic DNA from peripheral blood SARS-COV-2- 104,GSM5099265,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,77,64.135414,62.863377,-14.13662338256836
-genomic DNA from peripheral blood SARS-COV-2+ 62,GSM5099266,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,42,45.219185,37.98775,-4.012248992919922
-genomic DNA from peripheral blood SARS-COV-2- 111,GSM5099267,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,84,68.53425,68.97032,-15.029678344726562
-genomic DNA from peripheral blood SARS-COV-2+ 75,GSM5099268,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,Other,Female,71,64.55077,63.460766,-7.539234161376953
-genomic DNA from peripheral blood OtherInfection 23,GSM5099269,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,87,69.15913,69.78244,-17.217559814453125
-genomic DNA from peripheral blood SARS-COV-2- 266,GSM5099270,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Female,34,49.46751,42.642593,8.642593383789062
-genomic DNA from peripheral blood SARS-COV-2+ 120,GSM5099271,positive,4.0,No,Yes,,,Death,,White,Male,37,41.42566,34.47841,-2.5215911865234375
-genomic DNA from peripheral blood OtherInfection 10,GSM5099272,other infection,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,50,58.11771,54.11632,4.116321563720703
-genomic DNA from peripheral blood SARS-COV-2+ 130,GSM5099273,positive,3.0,No,Yes,27.0,Home,ICU,Not Hispanic or Latino,Asian,Male,19,17.20926,19.472988,0.4729881286621094
-genomic DNA from peripheral blood SARS-COV-2- 269,GSM5099274,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,61,63.164898,61.458187,0.4581871032714844
-genomic DNA from peripheral blood OtherInfection 13,GSM5099275,other infection,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,35,44.716976,37.487865,2.487865447998047
-genomic DNA from peripheral blood SARS-COV-2- 208,GSM5099276,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,50,59.882206,56.66869,6.668689727783203
-genomic DNA from peripheral blood SARS-COV-2- 203,GSM5099277,negative,,,No,,,Floor Admission,Not Hispanic or Latino,White,Male,58,68.758675,69.264084,11.264083862304688
-genomic DNA from peripheral blood SARS-COV-2- 252,GSM5099278,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,65,61.221405,58.622707,-6.377292633056641
-genomic DNA from peripheral blood SARS-COV-2- 222,GSM5099279,negative,,,No,,Other,Floor Admission,Hispanic or Latino,Other,Female,51,63.92821,62.564404,11.564403533935547
-genomic DNA from peripheral blood SARS-COV-2- 190,GSM5099280,negative,,,No,,,,Not Hispanic or Latino,BlackorAA,Female,23,33.16081,28.756416,5.756416320800781
-genomic DNA from peripheral blood SARS-COV-2+ 123,GSM5099281,positive,2.0,No,No,6.0,Other,Floor Admission,Not Hispanic or Latino,White,Male,49,52.494907,46.395756,-2.6042442321777344
-genomic DNA from peripheral blood SARS-COV-2- 191,GSM5099282,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,60,59.655094,56.338345,-3.6616554260253906
-genomic DNA from peripheral blood SARS-COV-2- 244,GSM5099283,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,67,65.41241,64.689896,-2.3101043701171875
-genomic DNA from peripheral blood SARS-COV-2+ 125,GSM5099284,positive,2.0,No,No,8.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,86,82.21547,79.27074,-6.7292633056640625
-genomic DNA from peripheral blood SARS-COV-2- 217,GSM5099285,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,28,38.041676,31.847855,3.8478546142578125
-genomic DNA from peripheral blood SARS-COV-2- 251,GSM5099286,negative,,,No,,Other,Discharged,Not Hispanic or Latino,White,Female,41,48.915207,41.9954,0.9953994750976562
-genomic DNA from peripheral blood SARS-COV-2- 255,GSM5099287,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,Other,Male,48,50.916615,44.39705,-3.6029510498046875
-genomic DNA from peripheral blood SARS-COV-2- 220,GSM5099288,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,59,63.36794,61.75311,2.7531089782714844
-genomic DNA from peripheral blood SARS-COV-2- 243,GSM5099289,negative,,,No,,Other,Discharged,Hispanic or Latino,Other,Female,17,16.842514,19.156418,2.1564178466796875
-genomic DNA from peripheral blood SARS-COV-2+ 114,GSM5099290,positive,2.0,No,No,3.0,Home,Floor Admission,Not Hispanic or Latino,White,Male,74,72.21711,73.44713,-0.5528717041015625
-genomic DNA from peripheral blood SARS-COV-2- 234,GSM5099291,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,52,58.69942,54.95368,2.9536781311035156
-genomic DNA from peripheral blood SARS-COV-2- 254,GSM5099292,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,42,47.3894,40.271667,-1.72833251953125
-genomic DNA from peripheral blood SARS-COV-2- 202,GSM5099293,negative,,,No,,,Floor Admission,Not Hispanic or Latino,White,Male,79,84.11282,78.757965,-0.242034912109375
-genomic DNA from peripheral blood SARS-COV-2- 193,GSM5099294,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,34,43.999683,36.792652,2.792652130126953
-genomic DNA from peripheral blood SARS-COV-2- 250,GSM5099295,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,53,54.38708,48.90088,-4.09912109375
-genomic DNA from peripheral blood SARS-COV-2- 119,GSM5099296,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,39,48.759518,41.81517,2.8151702880859375
-genomic DNA from peripheral blood SARS-COV-2- 257,GSM5099297,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,Other,Female,18,20.945559,22.219315,4.2193145751953125
-genomic DNA from peripheral blood SARS-COV-2- 212,GSM5099298,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,77,70.02444,70.87514,-6.1248626708984375
-genomic DNA from peripheral blood SARS-COV-2- 253,GSM5099299,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,31,34.916294,29.786755,-1.2132453918457031
-genomic DNA from peripheral blood SARS-COV-2+ 72,GSM5099300,positive,4.0,No,No,,Death,Floor Admission,Not Hispanic or Latino,Asian,Female,82,78.111015,78.35976,-3.6402435302734375
-genomic DNA from peripheral blood SARS-COV-2- 258,GSM5099301,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,64,60.443752,57.48708,-6.512920379638672
-genomic DNA from peripheral blood SARS-COV-2- 278,GSM5099302,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Male,30,25.09709,24.58551,-5.41448974609375
-genomic DNA from peripheral blood SARS-COV-2- 210,GSM5099303,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,24,22.23401,23.009007,-0.9909934997558594
-genomic DNA from peripheral blood SARS-COV-2- 249,GSM5099304,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,74,67.122215,67.074646,-6.92535400390625
-genomic DNA from peripheral blood SARS-COV-2- 221,GSM5099305,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,65,68.17086,68.49008,3.490081787109375
-genomic DNA from peripheral blood SARS-COV-2+ 111,GSM5099306,positive,2.0,No,No,10.0,Home,Floor Admission,Hispanic or Latino,Other,Female,42,46.711967,39.537304,-2.462696075439453
-genomic DNA from peripheral blood SARS-COV-2- 117,GSM5099307,negative,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,65,60.645,57.78079,-7.219211578369141
-genomic DNA from peripheral blood SARS-COV-2- 226,GSM5099308,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,71,76.04335,77.03966,6.0396575927734375
-genomic DNA from peripheral blood SARS-COV-2+ 124,GSM5099309,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Male,36,48.218655,41.19665,5.196651458740234
-genomic DNA from peripheral blood SARS-COV-2- 201,GSM5099310,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Male,69,63.26254,61.600063,-7.399936676025391
-genomic DNA from peripheral blood SARS-COV-2- 282,GSM5099311,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,47,52.187115,45.999157,-1.0008430480957031
-genomic DNA from peripheral blood SARS-COV-2- 271,GSM5099312,negative,,,No,,Other,Discharged,Not Hispanic or Latino,White,Female,27,34.090946,29.292397,2.2923965454101562
-genomic DNA from peripheral blood SARS-COV-2+ 132,GSM5099313,positive,2.0,No,No,39.0,Home,Floor Admission,Not Hispanic or Latino,,Male,82,71.65963,72.82303,-9.176971435546875
-genomic DNA from peripheral blood SARS-COV-2- 283,GSM5099314,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,35,50.29829,43.638638,8.63863754272461
-genomic DNA from peripheral blood SARS-COV-2+ 138,GSM5099315,positive,4.0,No,Yes,,Death,ICU,Not Hispanic or Latino,White,Male,33,35.563084,30.187664,-2.812335968017578
-genomic DNA from peripheral blood SARS-COV-2- 285,GSM5099316,negative,,,Yes,,Home,Floor Admission,Hispanic or Latino,Other,Female,54,54.11323,48.53158,-5.468418121337891
-genomic DNA from peripheral blood SARS-COV-2- 205,GSM5099317,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,35,39.38471,32.838387,-2.1616134643554688
-genomic DNA from peripheral blood SARS-COV-2- 230,GSM5099318,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,68,65.75368,65.172226,-2.8277740478515625
-genomic DNA from peripheral blood SARS-COV-2- 224,GSM5099319,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,72,71.13134,72.21196,0.2119598388671875
-genomic DNA from peripheral blood SARS-COV-2- 215,GSM5099320,negative,,,No,,,Discharged,Not Hispanic or Latino,BlackorAA,Female,39,47.201946,40.066517,1.0665168762207031
-genomic DNA from peripheral blood SARS-COV-2- 227,GSM5099321,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,77,81.78094,79.29813,2.298126220703125
-genomic DNA from peripheral blood SARS-COV-2- 240,GSM5099322,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,46,52.49788,46.399597,0.39959716796875
-genomic DNA from peripheral blood SARS-COV-2- 223,GSM5099323,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,23,0.02575636,-13.855083,-36.85508346557617
-genomic DNA from peripheral blood OtherInfection 40,GSM5099324,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,66,68.0759,68.36363,2.3636322021484375
-genomic DNA from peripheral blood OtherInfection 42,GSM5099325,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,45,53.045593,47.113224,2.1132240295410156
-genomic DNA from peripheral blood SARS-COV-2+ 106,GSM5099326,positive,1.0,No,No,0.0,,Discharged,Hispanic or Latino,Other,Female,47,50.561565,43.959805,-3.0401954650878906
-genomic DNA from peripheral blood OtherInfection 47,GSM5099327,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,54,58.046715,54.014477,0.014476776123046875
-genomic DNA from peripheral blood SARS-COV-2- 99,GSM5099328,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,32,30.034113,27.082481,-4.917518615722656
-genomic DNA from peripheral blood SARS-COV-2- 96,GSM5099329,negative,,,No,,,Floor Admission,Hispanic or Latino,Other,Male,64,63.14059,61.42288,-2.5771217346191406
-genomic DNA from peripheral blood SARS-COV-2+ 108,GSM5099330,positive,2.0,No,No,14.0,Other,Floor Admission,Not Hispanic or Latino,White,Male,49,53.31912,47.473244,-1.5267562866210938
-genomic DNA from peripheral blood OtherInfection 43,GSM5099331,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,69,70.74845,71.75787,2.75787353515625
-genomic DNA from peripheral blood SARS-COV-2+ 115,GSM5099332,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,41,55.692364,50.689404,9.689403533935547
-genomic DNA from peripheral blood SARS-COV-2- 241,GSM5099333,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,42,54.13072,48.5551,6.5550994873046875
-genomic DNA from peripheral blood SARS-COV-2- 276,GSM5099334,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,20,23.16873,23.546307,3.546306610107422
-genomic DNA from peripheral blood SARS-COV-2- 265,GSM5099335,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,29,33.02141,28.677853,-0.3221473693847656
-genomic DNA from peripheral blood SARS-COV-2- 245,GSM5099336,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,30,44.091038,36.87997,6.879970550537109
-genomic DNA from peripheral blood SARS-COV-2+ 110,GSM5099337,positive,2.0,No,No,5.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,59,59.73325,56.451992,-2.5480079650878906
-genomic DNA from peripheral blood SARS-COV-2- 229,GSM5099338,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,51,55.038,49.78714,-1.212860107421875
-genomic DNA from peripheral blood SARS-COV-2+ 133,GSM5099339,positive,2.0,No,No,7.0,Home,Floor Admission,Hispanic or Latino,Other,Female,52,57.857143,53.742863,1.7428627014160156
-genomic DNA from peripheral blood OtherInfection 35,GSM5099340,other infection,,,No,,Home,Discharged,Hispanic or Latino,,Female,38,46.858776,39.694794,1.694793701171875
-genomic DNA from peripheral blood SARS-COV-2+ 60,GSM5099341,positive,2.0,No,No,6.0,Other,Floor Admission,Hispanic or Latino,Other,Male,40,47.33697,40.21413,0.21413040161132812
-genomic DNA from peripheral blood OtherInfection 62,GSM5099342,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,75,89.0295,73.96277,-1.0372314453125
-genomic DNA from peripheral blood SARS-COV-2+ 101,GSM5099343,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,White,Female,64,63.978127,62.6365,-1.3634986877441406
-genomic DNA from peripheral blood SARS-COV-2- 103,GSM5099344,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,80,79.766624,79.02713,-0.972869873046875
-genomic DNA from peripheral blood SARS-COV-2- 106,GSM5099345,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,69,65.33048,64.5737,-4.426300048828125
-genomic DNA from peripheral blood SARS-COV-2+ 93,GSM5099346,positive,2.0,No,No,8.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,56,63.176956,61.475704,5.475704193115234
-genomic DNA from peripheral blood SARS-COV-2+ 91,GSM5099347,positive,2.0,No,No,2.0,Home,Floor Admission,Hispanic or Latino,Other,Female,58,58.276592,54.344555,-3.655445098876953
-genomic DNA from peripheral blood SARS-COV-2- 115,GSM5099348,negative,,,No,,Other,Floor Admission,,,Male,49,56.85755,52.32108,3.3210792541503906
-genomic DNA from peripheral blood SARS-COV-2+ 73,GSM5099349,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,33,42.840282,35.715553,2.7155532836914062
-genomic DNA from peripheral blood OtherInfection 44,GSM5099350,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,70,66.44964,66.14661,-3.8533935546875
-genomic DNA from peripheral blood OtherInfection 57,GSM5099351,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,48,50.05781,43.347588,-4.652412414550781
-genomic DNA from peripheral blood OtherInfection 34,GSM5099352,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,30,32.961082,28.643993,-1.3560066223144531
-genomic DNA from peripheral blood SARS-COV-2+ 105,GSM5099353,positive,1.0,,,0.0,,,Hispanic or Latino,White,Female,37,48.155106,41.124744,4.124744415283203
-genomic DNA from peripheral blood SARS-COV-2- 110,GSM5099354,negative,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,68,65.353424,64.60625,-3.3937530517578125
-genomic DNA from peripheral blood OtherInfection 56,GSM5099355,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,44,52.074593,45.854958,1.8549575805664062
-genomic DNA from peripheral blood SARS-COV-2+ 64,GSM5099356,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,Asian,Male,67,63.19393,61.500393,-5.499607086181641
-genomic DNA from peripheral blood OtherInfection 53,GSM5099357,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,31,38.490425,32.171295,1.171295166015625
-genomic DNA from peripheral blood SARS-COV-2+ 70,GSM5099358,positive,2.0,No,No,4.0,Home,Floor Admission,Not Hispanic or Latino,Other,Male,53,65.2775,64.49843,11.498428344726562
-genomic DNA from peripheral blood SARS-COV-2+ 96,GSM5099359,positive,2.0,No,No,9.0,Nursing home or skilled rehab,Floor Admission,Hispanic or Latino,Other,Male,50,58.121,54.12106,4.121059417724609
-genomic DNA from peripheral blood OtherInfection 55,GSM5099360,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,62,69.63207,70.38449,8.384490966796875
-genomic DNA from peripheral blood SARS-COV-2- 100,GSM5099361,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,42,48.595623,41.626484,-0.3735160827636719
-genomic DNA from peripheral blood SARS-COV-2- 105,GSM5099362,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,77,67.3646,67.40546,-9.59454345703125
-genomic DNA from peripheral blood SARS-COV-2- 194,GSM5099363,negative,,,No,,,Discharged,Not Hispanic or Latino,White,Female,56,63.664516,62.18304,6.183040618896484
-genomic DNA from peripheral blood SARS-COV-2+ 116,GSM5099364,positive,2.0,No,No,6.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,94,77.75149,78.16693,-15.83306884765625
-genomic DNA from peripheral blood SARS-COV-2- 235,GSM5099365,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,55,61.978416,59.728825,4.728824615478516
-genomic DNA from peripheral blood SARS-COV-2+ 121,GSM5099366,positive,1.0,No,No,0.0,Home,Discharged,,,Male,19,27.022015,25.566319,6.566318511962891
-genomic DNA from peripheral blood SARS-COV-2- 238,GSM5099367,negative,,,No,,Home,Discharged,Not Hispanic or Latino,Asian,Female,31,36.437473,30.75,-0.25
-genomic DNA from peripheral blood SARS-COV-2+ 127,GSM5099368,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,Other,Male,31,38.159008,31.931702,0.93170166015625
-genomic DNA from peripheral blood SARS-COV-2- 237,GSM5099369,negative,,,No,,,Discharged,Not Hispanic or Latino,White,Female,35,44.985836,37.754143,2.7541427612304688
-genomic DNA from peripheral blood SARS-COV-2- 270,GSM5099370,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,69,63.802895,62.38325,-6.616748809814453
-genomic DNA from peripheral blood SARS-COV-2- 211,GSM5099371,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,60,62.997173,61.21433,1.2143287658691406
-genomic DNA from peripheral blood OtherInfection 14,GSM5099372,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,81,64.42998,63.287334,-17.712665557861328
-genomic DNA from peripheral blood OtherInfection 17,GSM5099373,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Male,22,20.354517,21.834393,-0.16560745239257812
-genomic DNA from peripheral blood SARS-COV-2+ 112,GSM5099374,positive,4.0,No,Yes,,Death,ICU,Not Hispanic or Latino,White,Male,78,76.44862,77.33725,-0.662750244140625
-genomic DNA from peripheral blood OtherInfection 29,GSM5099375,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,57,64.649216,63.601902,6.601902008056641
-genomic DNA from peripheral blood OtherInfection 27,GSM5099376,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,77,67.87037,68.08879,-8.911209106445312
-genomic DNA from peripheral blood SARS-COV-2- 260,GSM5099377,negative,,,Yes,,,ICU,Not Hispanic or Latino,White,Male,47,51.17416,44.71714,-2.2828598022460938
-genomic DNA from peripheral blood SARS-COV-2- 216,GSM5099378,negative,,,Yes,,,ICU,Not Hispanic or Latino,White,Male,72,72.28919,73.526215,1.526214599609375
-genomic DNA from peripheral blood SARS-COV-2+ 129,GSM5099379,positive,3.0,No,Yes,2.0,Home,ICU,Not Hispanic or Latino,BlackorAA,Male,50,59.944004,56.758656,6.758655548095703
-genomic DNA from peripheral blood SARS-COV-2- 263,GSM5099380,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,63,72.95812,74.24141,11.241409301757812
-genomic DNA from peripheral blood OtherInfection 21,GSM5099381,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,61,66.97646,66.87477,5.8747711181640625
-genomic DNA from peripheral blood SARS-COV-2+ 104,GSM5099382,positive,3.0,No,Yes,10.0,Home,Floor Admission,Hispanic or Latino,Other,Female,55,54.965992,49.68854,-5.311458587646484
-genomic DNA from peripheral blood SARS-COV-2- 116,GSM5099383,negative,,No,Yes,,Home,ICU,Hispanic or Latino,Other,Female,39,47.073593,39.926903,0.9269027709960938
-genomic DNA from peripheral blood SARS-COV-2+ 126,GSM5099384,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Male,46,51.02699,44.533928,-1.4660720825195312
-genomic DNA from peripheral blood SARS-COV-2- 233,GSM5099385,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,24,27.65946,25.885689,1.8856887817382812
-genomic DNA from peripheral blood SARS-COV-2- 279,GSM5099386,negative,,,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Male,85,79.8616,79.0538,-5.946197509765625
-genomic DNA from peripheral blood SARS-COV-2- 261,GSM5099387,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,37,46.521023,39.333794,2.3337936401367188
-genomic DNA from peripheral blood SARS-COV-2- 228,GSM5099388,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,59,59.97497,56.80377,-2.1962318420410156
-genomic DNA from peripheral blood SARS-COV-2- 204,GSM5099389,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,24,25.549444,24.819515,0.8195152282714844
-genomic DNA from peripheral blood SARS-COV-2- 207,GSM5099390,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,26,20.752096,22.095024,-3.9049758911132812
-genomic DNA from peripheral blood OtherInfection 48,GSM5099391,other infection,,,No,,,Discharged,Not Hispanic or Latino,White,Male,56,56.491573,51.805347,-4.194652557373047
-genomic DNA from peripheral blood OtherInfection 30,GSM5099392,other infection,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,69,63.431076,61.8447,-7.155300140380859
-genomic DNA from peripheral blood OtherInfection 59,GSM5099393,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,55,59.629887,56.301693,1.3016929626464844
-genomic DNA from peripheral blood SARS-COV-2+ 61,GSM5099394,positive,1.0,No,No,0.0,,Discharged,Hispanic or Latino,Other,Female,58,59.44185,56.028545,-1.9714546203613281
-genomic DNA from peripheral blood SARS-COV-2- 95,GSM5099395,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,74,72.395645,73.64235,-0.3576507568359375
-genomic DNA from peripheral blood SARS-COV-2- 98,GSM5099396,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,57,59.03361,55.436756,-1.5632438659667969
-genomic DNA from peripheral blood SARS-COV-2+ 69,GSM5099397,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,Asian,Male,63,65.97495,65.483444,2.4834442138671875
-genomic DNA from peripheral blood SARS-COV-2+ 95,GSM5099398,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,Other,Male,26,24.766624,24.412632,-1.5873680114746094
-genomic DNA from peripheral blood SARS-COV-2+ 68,GSM5099399,positive,2.0,Yes,No,6.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,70,74.655785,75.891205,5.891204833984375
-genomic DNA from peripheral blood OtherInfection 9,GSM5099400,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,70,65.47439,64.777695,-5.2223052978515625
-genomic DNA from peripheral blood SARS-COV-2+ 97,GSM5099401,positive,2.0,Yes,No,2.0,Home,Floor Admission,Hispanic or Latino,White,Male,53,56.34026,51.59299,-1.4070091247558594
-genomic DNA from peripheral blood OtherInfection 8,GSM5099402,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,30,33.939873,29.203873,-0.7961273193359375
-genomic DNA from peripheral blood SARS-COV-2- 274,GSM5099403,negative,,,Yes,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,72,68.18794,68.51277,-3.4872283935546875
-genomic DNA from peripheral blood SARS-COV-2- 273,GSM5099404,negative,,,Yes,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,56,57.78141,53.634518,-2.3654823303222656
-genomic DNA from peripheral blood OtherInfection 28,GSM5099405,other infection,,,No,,Home,Discharged,Hispanic or Latino,White,Female,28,34.409725,29.481133,1.4811325073242188
-genomic DNA from peripheral blood SARS-COV-2- 259,GSM5099406,negative,,,Yes,,Death,ICU,Hispanic or Latino,White,Male,55,54.17333,48.612427,-6.3875732421875
-genomic DNA from peripheral blood SARS-COV-2- 268,GSM5099407,negative,,,Yes,,Home,ICU,Hispanic or Latino,Other,Female,72,78.23759,78.42369,6.4236907958984375
-genomic DNA from peripheral blood SARS-COV-2- 231,GSM5099408,negative,,,Yes,,Death,ICU,Not Hispanic or Latino,White,Female,86,80.98167,79.26669,-6.733306884765625
-genomic DNA from peripheral blood SARS-COV-2+ 128,GSM5099409,positive,3.0,No,Yes,19.0,Home,ICU,Not Hispanic or Latino,BlackorAA,Male,56,54.737377,49.37639,-6.6236114501953125
-genomic DNA from peripheral blood SARS-COV-2+ 131,GSM5099410,positive,2.0,Yes,No,5.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,26,37.602757,31.538551,5.538551330566406
-genomic DNA from peripheral blood OtherInfection 18,GSM5099411,other infection,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,64,60.382263,57.397373,-6.602626800537109
-genomic DNA from peripheral blood OtherInfection 12,GSM5099412,other infection,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,47,58.214336,54.255116,7.255115509033203
-genomic DNA from peripheral blood SARS-COV-2- 118,GSM5099413,negative,,,Yes,,Death,ICU,Not Hispanic or Latino,BlackorAA,Female,68,71.91743,73.114365,5.1143646240234375
-genomic DNA from peripheral blood OtherInfection 22,GSM5099414,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Male,55,58.46747,54.61923,-0.3807716369628906
-genomic DNA from peripheral blood SARS-COV-2+ 134,GSM5099415,positive,3.0,No,Yes,20.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Male,46,54.03886,48.431644,2.4316444396972656
-genomic DNA from peripheral blood SARS-COV-2- 280,GSM5099416,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,83,77.918846,78.25873,-4.74127197265625
-genomic DNA from peripheral blood SARS-COV-2+ 137,GSM5099417,positive,4.0,No,Yes,,Death,ICU,Hispanic or Latino,Other,Male,63,64.47554,63.35278,0.3527793884277344
-genomic DNA from peripheral blood SARS-COV-2+ 136,GSM5099418,positive,4.0,No,Yes,,Death,Floor Admission,Hispanic or Latino,Other,Female,82,82.16645,79.27542,-2.724578857421875
-genomic DNA from peripheral blood SARS-COV-2- 281,GSM5099419,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,64,64.32124,63.130985,-0.8690147399902344
-genomic DNA from peripheral blood SARS-COV-2- 284,GSM5099420,negative,,,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Female,75,68.89313,69.43895,-5.5610504150390625
-genomic DNA from peripheral blood SARS-COV-2+ 135,GSM5099421,positive,3.0,No,Yes,8.0,Home,ICU,Hispanic or Latino,White,Male,84,78.01673,78.310776,-5.6892242431640625
-genomic DNA from peripheral blood SARS-COV-2- 107,GSM5099422,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,68,60.418232,57.44984,-10.550159454345703
-genomic DNA from peripheral blood SARS-COV-2+ 98,GSM5099423,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,67,62.67539,60.745785,-6.254215240478516
-genomic DNA from peripheral blood SARS-COV-2+ 92,GSM5099424,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,46,53.05686,47.12803,1.1280288696289062
-genomic DNA from peripheral blood OtherInfection 65,GSM5099425,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,56,60.173252,57.0926,1.0926017761230469
-genomic DNA from peripheral blood OtherInfection 37,GSM5099426,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,74,75.740166,76.80554,2.8055419921875
-genomic DNA from peripheral blood SARS-COV-2- 199,GSM5099427,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,50,56.28253,51.512066,1.5120658874511719
-genomic DNA from peripheral blood SARS-COV-2+ 67,GSM5099428,positive,2.0,No,No,7.0,Home,Floor Admission,Not Hispanic or Latino,White,Male,58,62.140106,59.96493,1.9649314880371094
-genomic DNA from peripheral blood SARS-COV-2- 114,GSM5099429,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,62,65.49962,64.813385,2.813385009765625
-genomic DNA from peripheral blood OtherInfection 64,GSM5099430,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,56,54.198833,48.646774,-7.3532257080078125
-genomic DNA from peripheral blood OtherInfection 50,GSM5099431,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Male,29,33.66928,29.046787,0.046787261962890625
-genomic DNA from peripheral blood OtherInfection 46,GSM5099432,other infection,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,57,70.66973,71.66341,14.663406372070312
-genomic DNA from peripheral blood SARS-COV-2+ 66,GSM5099433,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,60,60.825344,58.044094,-1.9559059143066406
-genomic DNA from peripheral blood SARS-COV-2- 102,GSM5099434,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,33,44.26694,37.049114,4.049114227294922
-genomic DNA from peripheral blood SARS-COV-2+ 99,GSM5099435,positive,4.0,No,No,,Death,Floor Admission,Hispanic or Latino,Other,Male,49,54.93619,49.647766,0.64776611328125
-genomic DNA from peripheral blood SARS-COV-2- 108,GSM5099436,negative,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,White,Male,62,61.663166,59.268276,-2.7317237854003906
-genomic DNA from peripheral blood SARS-COV-2+ 102,GSM5099437,positive,3.0,No,Yes,42.0,Home,Floor Admission,Hispanic or Latino,Other,Male,58,58.51414,54.686474,-3.313526153564453
-genomic DNA from peripheral blood OtherInfection 16,GSM5099438,other infection,,,Yes,,Home,Floor Admission,Hispanic or Latino,Other,Male,54,63.181263,61.482006,7.482006072998047
-genomic DNA from peripheral blood SARS-COV-2- 267,GSM5099439,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,Other,Female,84,77.13319,77.79805,-6.2019500732421875
-genomic DNA from peripheral blood OtherInfection 11,GSM5099440,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,65,68.37253,68.75734,3.7573394775390625
-genomic DNA from peripheral blood SARS-COV-2- 262,GSM5099441,negative,,,Yes,,,Floor Admission,Not Hispanic or Latino,White,Male,69,67.06594,66.997604,-2.0023956298828125
-genomic DNA from peripheral blood OtherInfection 26,GSM5099442,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,26,27.441608,25.776657,-0.2233428955078125
-genomic DNA from peripheral blood SARS-COV-2+ 65,GSM5099443,positive,3.0,No,Yes,21.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,51,58.73942,55.011425,4.011425018310547
-genomic DNA from peripheral blood SARS-COV-2+ 107,GSM5099444,positive,2.0,No,No,4.0,Other,Floor Admission,Not Hispanic or Latino,White,Male,58,56.885418,52.360462,-5.639537811279297
-genomic DNA from peripheral blood OtherInfection 54,GSM5099445,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,56,64.57555,63.49632,7.496318817138672
-genomic DNA from peripheral blood OtherInfection 51,GSM5099446,other infection,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,34,42.173252,35.12174,1.1217384338378906
-genomic DNA from peripheral blood OtherInfection 41,GSM5099447,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Female,50,51.37314,44.966076,-5.033924102783203
-genomic DNA from peripheral blood SARS-COV-2+ 100,GSM5099448,positive,2.0,No,No,14.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Female,69,67.78312,67.9716,-1.0283966064453125
-genomic DNA from peripheral blood SARS-COV-2- 213,GSM5099449,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,55,59.398746,55.966007,0.9660072326660156
-genomic DNA from peripheral blood SARS-COV-2- 248,GSM5099450,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,18,21.87581,22.795666,4.795665740966797
-genomic DNA from peripheral blood SARS-COV-2- 256,GSM5099451,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,91,78.07321,78.340225,-12.659774780273438
-genomic DNA from peripheral blood SARS-COV-2- 232,GSM5099452,negative,,,No,,,Discharged,Hispanic or Latino,Other,Female,63,60.722023,57.893208,-5.106792449951172
-genomic DNA from peripheral blood SARS-COV-2+ 109,GSM5099453,positive,2.0,No,No,2.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,72,62.795273,60.920444,-11.07955551147461
-genomic DNA from peripheral blood SARS-COV-2- 120,GSM5099454,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,29,31.73908,27.974422,-1.0255775451660156
-genomic DNA from peripheral blood SARS-COV-2- 206,GSM5099455,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,30,47.002224,39.84957,9.849571228027344
-genomic DNA from peripheral blood SARS-COV-2+ 113,GSM5099456,positive,3.0,No,Yes,,,Floor Admission,Hispanic or Latino,White,Female,48,54.983562,49.712605,1.7126045227050781
-genomic DNA from peripheral blood SARS-COV-2- 264,GSM5099457,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,78,72.74479,74.01701,-3.9829864501953125
-genomic DNA from peripheral blood SARS-COV-2- 197,GSM5099458,negative,,,Yes,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,66,67.395294,67.447174,1.447174072265625
-genomic DNA from peripheral blood SARS-COV-2- 272,GSM5099459,negative,,,Yes,,Death,ICU,Not Hispanic or Latino,White,Male,52,56.64675,52.023685,0.023685455322265625
-genomic DNA from peripheral blood OtherInfection 24,GSM5099460,other infection,,,No,,Home,Discharged,Hispanic or Latino,Other,Male,43,54.6183,49.214375,6.214374542236328
-genomic DNA from peripheral blood OtherInfection 20,GSM5099461,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,65,61.682526,59.296528,-5.703472137451172
-genomic DNA from peripheral blood SARS-COV-2- 112,GSM5099462,negative,,,Yes,,,ICU,Not Hispanic or Latino,BlackorAA,Male,80,68.784,69.297104,-10.702896118164062
-genomic DNA from peripheral blood OtherInfection 25,GSM5099463,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,49,62.982452,61.192905,12.19290542602539
-genomic DNA from peripheral blood SARS-COV-2- 214,GSM5099464,negative,,No,Yes,,Nursing home or skilled rehab,ICU,Hispanic or Latino,Other,Male,60,61.626163,59.214222,-0.7857780456542969
-genomic DNA from peripheral blood OtherInfection 19,GSM5099465,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,57,60.140106,57.044308,0.044307708740234375
-genomic DNA from peripheral blood OtherInfection 7,GSM5099466,other infection,,,Yes,,Death,ICU,Not Hispanic or Latino,White,Female,65,66.35787,66.018906,1.0189056396484375
-genomic DNA from peripheral blood SARS-COV-2- 225,GSM5099467,negative,,No,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,Asian,Male,64,62.27627,60.16373,-3.8362693786621094
-genomic DNA from peripheral blood SARS-COV-2- 192,GSM5099468,negative,,,Yes,,Home,ICU,Hispanic or Latino,Other,Female,19,25.39459,24.739723,5.739723205566406
-genomic DNA from peripheral blood OtherInfection 15,GSM5099469,other infection,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,65,65.985794,65.49863,0.498626708984375
-genomic DNA from peripheral blood SARS-COV-2- 109,GSM5099470,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,63,62.557735,60.57427,-2.425731658935547
-genomic DNA from peripheral blood OtherInfection 45,GSM5099471,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,53,61.131588,58.49145,5.491451263427734
-genomic DNA from peripheral blood OtherInfection 36,GSM5099472,other infection,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,84,81.566574,79.2999,-4.700103759765625
-genomic DNA from peripheral blood OtherInfection 32,GSM5099473,other infection,,,No,,Other,Discharged,Not Hispanic or Latino,BlackorAA,Female,26,26.554586,25.3311,-0.6688995361328125
-genomic DNA from peripheral blood OtherInfection 60,GSM5099474,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,72,79.900314,79.064285,7.0642852783203125
-genomic DNA from peripheral blood SARS-COV-2+ 94,GSM5099475,positive,2.0,No,No,10.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,67,63.361107,61.74319,-5.256809234619141
-genomic DNA from peripheral blood SARS-COV-2- 196,GSM5099476,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,48,56.2811,51.51005,3.510051727294922
-genomic DNA from peripheral blood SARS-COV-2- 101,GSM5099477,negative,,No,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,52,65.500786,64.81508,12.815078735351562
+title,geo_accession,covid_status:ch1,severity score:ch1,patient_asymptomatic:ch1,admitted_to_icu:ch1,covid_hosp_days:ch1,discharged_to:ch1,ed_disposition:ch1,ethnicity:ch1,race:ch1,Sex:ch1,age:ch1,altum,adjusted_altum,diffs,ethnicity_and_race
+genomic DNA from peripheral blood SARS-COV-2- 77,GSM5098953,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,27,44.402985,36.671535,9.67153549194336,White
+genomic DNA from peripheral blood SARS-COV-2- 124,GSM5098954,negative,,,No,,Home,Discharged,Hispanic or Latino,Other,Male,34,48.271767,40.65874,6.658740997314453,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 155,GSM5098955,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,Other,Female,53,56.823288,51.888863,-1.1111373901367188,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 139,GSM5098956,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,34,47.963432,40.31292,6.312919616699219,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 295,GSM5098957,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,68,68.15661999999999,69.18181,1.1818084716796875,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 157,GSM5098958,positive,2.0,No,No,5.0,Home,Floor Admission,Hispanic or Latino,White,Female,81,67.58498399999999,68.33025,-12.669746398925781,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 289,GSM5098959,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,25,25.977833,28.396893,3.396892547607422,White
+genomic DNA from peripheral blood SARS-COV-2+ 146,GSM5098960,positive,4.0,No,Yes,,Death,ICU,Not Hispanic or Latino,White,Male,74,72.61820999999999,75.412926,1.4129257202148438,White
+genomic DNA from peripheral blood SARS-COV-2+ 51,GSM5098961,positive,3.0,No,Yes,36.0,Home,ICU,Not Hispanic or Latino,White,Female,29,40.310466999999996,33.326294,4.3262939453125,White
+genomic DNA from peripheral blood SARS-COV-2- 63,GSM5098962,negative,,,No,,,Floor Admission,Not Hispanic or Latino,White,Female,34,47.968212,40.318245000000005,6.318244934082031,White
+genomic DNA from peripheral blood SARS-COV-2+ 44,GSM5098963,positive,2.0,No,No,2.0,Home,Floor Admission,Hispanic or Latino,Other,Male,42,47.675976,39.994755,-2.0052452087402344,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 145,GSM5098964,positive,1.0,No,No,0.0,,Discharged,Hispanic or Latino,White,Male,29,31.903233,29.281541999999998,0.2815418243408203,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 87,GSM5098965,negative,,,Yes,,Home,Floor Admission,Hispanic or Latino,White,Male,60,60.04654300000001,56.72949200000001,-3.2705078125,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 147,GSM5098966,positive,3.0,No,Yes,31.0,Home,ICU,Hispanic or Latino,White,Female,50,54.950386,49.195175,-0.8048248291015625,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 142,GSM5098967,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,22,23.238356,28.373542999999998,6.373542785644531,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 154,GSM5098968,positive,2.0,No,No,2.0,Home,Floor Admission,Hispanic or Latino,Other,Female,57,58.168217000000006,53.88224,-3.1177597045898438,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 286,GSM5098969,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,46,62.10443000000001,59.904022,13.904022216796875,White
+genomic DNA from peripheral blood SARS-COV-2+ 150,GSM5098970,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,49,55.794419999999995,50.39605,1.3960494995117188,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 158,GSM5098971,positive,3.0,No,Yes,40.0,Nursing home or skilled rehab,Floor Admission,Hispanic or Latino,White,Male,54,64.02897,62.890797,8.890796661376953,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 291,GSM5098972,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,88,77.03363,80.42874,-7.571258544921875,White
+genomic DNA from peripheral blood SARS-COV-2- 294,GSM5098973,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,36,46.0948,38.319527,2.3195266723632812,White
+genomic DNA from peripheral blood SARS-COV-2+ 164,GSM5098974,positive,3.0,No,Yes,3.0,Home,ICU,Hispanic or Latino,Other,Male,23,20.924767000000003,28.468266999999997,5.468267440795898,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 89,GSM5098975,negative,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,White,Male,74,65.75747,65.55808,-8.441917419433594,White
+genomic DNA from peripheral blood SARS-COV-2+ 52,GSM5098976,positive,3.0,No,Yes,29.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,49,61.04339,58.262287,9.262287139892578,White
+genomic DNA from peripheral blood SARS-COV-2- 147,GSM5098977,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,64,62.123684,59.93389499999999,-4.066104888916016,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 164,GSM5098978,negative,,,No,,,Discharged,Not Hispanic or Latino,BlackorAA,Female,67,63.580463,62.195094999999995,-4.804904937744141,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 184,GSM5098979,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,35,42.695206,35.16402,0.16402053833007812,White
+genomic DNA from peripheral blood SARS-COV-2- 59,GSM5098980,negative,,,,,Other,ICU,Not Hispanic or Latino,White,Male,47,48.988224,41.480278000000006,-5.519721984863281,White
+genomic DNA from peripheral blood SARS-COV-2- 171,GSM5098981,negative,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,70,64.51193,63.638785999999996,-6.361213684082031,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 123,GSM5098982,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,87,77.11993000000001,80.51100000000001,-6.4889984130859375,White
+genomic DNA from peripheral blood SARS-COV-2+ 152,GSM5098983,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,45,51.328964,44.331852000000005,-0.6681480407714844,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 163,GSM5098984,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,37,39.93231,33.063637,-3.9363632202148438,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 287,GSM5098985,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,Other,Male,58,61.873721999999994,59.546436,1.5464363098144531,Other
+genomic DNA from peripheral blood SARS-COV-2+ 161,GSM5098986,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,NativeHawaiianorPacificIslander,Female,87,76.69821999999999,80.10235,-6.897651672363281,Other
+genomic DNA from peripheral blood SARS-COV-2- 67,GSM5098987,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,34,42.257979999999996,34.803672999999996,0.8036727905273438,White
+genomic DNA from peripheral blood SARS-COV-2+ 45,GSM5098988,positive,3.0,No,Yes,45.0,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,BlackorAA,Male,57,64.80093000000001,64.08556,7.085563659667969,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 140,GSM5098989,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,Other,Female,27,34.38714,30.098988000000002,3.098987579345703,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 296,GSM5098990,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,73,70.87025,73.07645,0.076446533203125,White
+genomic DNA from peripheral blood SARS-COV-2+ 162,GSM5098991,positive,2.0,No,No,2.0,Home,Floor Admission,Hispanic or Latino,Other,Male,47,52.465709999999994,45.80343,-1.1965713500976562,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 153,GSM5098992,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,35,49.02915,41.527966,6.527965545654297,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 151,GSM5098993,positive,2.0,No,No,5.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,74,71.801926,74.34177,0.341766357421875,White
+genomic DNA from peripheral blood SARS-COV-2- 293,GSM5098994,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,28,27.373129,28.488739000000002,0.488739013671875,White
+genomic DNA from peripheral blood SARS-COV-2+ 149,GSM5098995,positive,4.0,No,Yes,,Death,Floor Admission,Hispanic or Latino,Other,Male,71,68.85946,70.21588,-0.78411865234375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 141,GSM5098996,positive,2.0,No,No,9.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,70,68.522224,69.72162,-0.27838134765625,White
+genomic DNA from peripheral blood SARS-COV-2+ 143,GSM5098997,positive,3.0,No,Yes,27.0,Home,Floor Admission,Hispanic or Latino,Other,Male,26,36.24763,30.912079,4.912078857421875,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 160,GSM5098998,positive,2.0,No,No,9.0,Home,Floor Admission,Hispanic or Latino,Other,Male,54,57.68999,53.168465000000005,-0.8315353393554688,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 290,GSM5099000,negative,,,Yes,,Home,ICU,Hispanic or Latino,Other,Male,45,50.11647,42.823563,-2.1764373779296875,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 125,GSM5099001,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Female,86,84.93122,84.40097,-1.599029541015625,White
+genomic DNA from peripheral blood SARS-COV-2- 150,GSM5099002,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,50,56.575590000000005,51.526737,1.5267372131347656,White
+genomic DNA from peripheral blood SARS-COV-2- 84,GSM5099003,negative,,,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Female,47,53.766543999999996,47.550872999999996,0.550872802734375,White
+genomic DNA from peripheral blood SARS-COV-2+ 42,GSM5099004,positive,2.0,Yes,No,5.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,40,52.717580000000005,46.13664,6.136638641357422,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 37,GSM5099005,negative,,No,Yes,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,26,24.328402,28.361193,2.3611927032470703,White
+genomic DNA from peripheral blood SARS-COV-2- 157,GSM5099006,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,67,73.08686999999999,76.010574,9.010574340820312,White
+genomic DNA from peripheral blood SARS-COV-2- 186,GSM5099007,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,57,56.24499,51.04607,-5.953929901123047,White
+genomic DNA from peripheral blood SARS-COV-2+ 82,GSM5099008,positive,3.0,No,Yes,53.0,Home,ICU,Hispanic or Latino,White,Male,33,37.247634999999995,31.423697999999998,-1.5763015747070312,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 148,GSM5099009,positive,2.0,No,No,7.0,Home,Floor Admission,Hispanic or Latino,Other,Female,54,54.799156,48.982418,-5.017581939697266,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 156,GSM5099010,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Male,58,59.598354,56.044582,-1.9554176330566406,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 288,GSM5099012,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,63,63.030758,61.341694,-1.6583061218261719,White
+genomic DNA from peripheral blood SARS-COV-2+ 159,GSM5099013,positive,1.0,No,No,0.0,,Discharged,Hispanic or Latino,Other,Male,47,54.661297,48.789159999999995,1.7891616821289062,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 144,GSM5099014,positive,1.0,No,No,0.0,,Discharged,Not Hispanic or Latino,White,Male,58,62.165222,59.9983,1.9982986450195312,White
+genomic DNA from peripheral blood SARS-COV-2- 5,GSM5099016,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,88,87.58631,83.667496,-4.3325042724609375,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 17,GSM5099017,positive,1.0,Yes,No,0.0,Home,Discharged,Not Hispanic or Latino,BlackorAA,Male,18,25.330263000000002,28.374229999999997,10.374229431152344,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 9,GSM5099019,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,58,68.31639,69.4182,11.418197631835938,White
+genomic DNA from peripheral blood SARS-COV-2+ 31,GSM5099020,positive,2.0,No,No,5.0,Death,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,60,59.81735,56.37888,-3.6211204528808594,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 10,GSM5099021,positive,3.0,No,Yes,17.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,45,57.13135,52.34151,7.341510772705078,White
+genomic DNA from peripheral blood SARS-COV-2- 4,GSM5099022,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,,Female,51,56.468693,51.37099,0.3709907531738281,
+genomic DNA from peripheral blood SARS-COV-2- 36,GSM5099023,negative,,No,No,,Home,Discharged,Not Hispanic or Latino,White,Male,59,65.47399999999999,65.12286999999999,6.122871398925781,White
+genomic DNA from peripheral blood SARS-COV-2- 19,GSM5099024,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,71,71.025665,73.290436,2.290435791015625,White
+genomic DNA from peripheral blood SARS-COV-2+ 9,GSM5099025,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,White,Female,50,57.604490000000006,53.041412,3.041412353515625,White
+genomic DNA from peripheral blood SARS-COV-2- 11,GSM5099026,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,83,70.84816,73.04593,-9.954071044921875,White
+genomic DNA from peripheral blood SARS-COV-2+ 26,GSM5099027,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,Other,Male,29,31.933923999999998,29.289864,0.28986358642578125,Other
+genomic DNA from peripheral blood SARS-COV-2- 16,GSM5099028,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,59,60.332730000000005,57.168319999999994,-1.8316802978515625,White
+genomic DNA from peripheral blood SARS-COV-2+ 20,GSM5099029,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,,Female,32,43.748688,36.07524,4.0752410888671875,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 141,GSM5099030,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,66,67.03635,67.50519,1.50518798828125,White
+genomic DNA from peripheral blood SARS-COV-2+ 77,GSM5099031,positive,3.0,No,Yes,,,ICU,Hispanic or Latino,Other,Male,27,29.910688,28.830444,1.8304443359375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 55,GSM5099032,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,61,61.6628,59.219756999999994,-1.780242919921875,White
+genomic DNA from peripheral blood SARS-COV-2- 177,GSM5099033,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,64,66.92975600000001,67.3441,3.3441009521484375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 62,GSM5099034,negative,,No,Yes,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,56,65.20484,64.70866,8.708656311035156,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 161,GSM5099035,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,58,60.062954000000005,56.754630000000006,-1.2453689575195312,White
+genomic DNA from peripheral blood SARS-COV-2- 144,GSM5099036,negative,,,Yes,,Home,Floor Admission,Hispanic or Latino,Other,Female,70,64.829025,64.12897,-5.87103271484375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 154,GSM5099037,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,89,89.80696999999999,82.02481,-6.975189208984375,White
+genomic DNA from peripheral blood SARS-COV-2- 172,GSM5099038,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,60,59.81973000000001,56.382515000000005,-3.6174850463867188,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 47,GSM5099039,positive,3.0,No,Yes,1.0,Home,ICU,Not Hispanic or Latino,White,Male,59,61.677753,59.2429,0.24290084838867188,White
+genomic DNA from peripheral blood SARS-COV-2- 128,GSM5099040,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Male,71,63.497640000000004,62.06655,-8.933448791503906,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 22,GSM5099041,positive,2.0,No,No,7.0,Home,Floor Admission,Hispanic or Latino,Other,Male,34,46.756042,39.004517,5.0045166015625,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 5,GSM5099043,other infection,,No,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,68,60.282585,57.09137,-10.90863037109375,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 8,GSM5099044,positive,2.0,No,No,1.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Male,58,62.336952000000004,60.264697999999996,2.264698028564453,Asian
+genomic DNA from peripheral blood SARS-COV-2- 33,GSM5099045,negative,,No,No,,Home,Floor Admission,Hispanic or Latino,,Female,39,48.685772,41.13044,2.1304397583007812,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 32,GSM5099046,negative,,No,No,,,Floor Admission,Not Hispanic or Latino,White,Male,52,55.56977,50.074226,-1.9257736206054688,White
+genomic DNA from peripheral blood SARS-COV-2+ 25,GSM5099047,positive,2.0,No,No,5.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,37,55.29075,49.67671,12.676708221435547,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 3,GSM5099048,positive,3.0,No,Yes,47.0,Home,Floor Admission,Hispanic or Latino,Other,Male,39,53.048935,46.57884,7.578838348388672,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 159,GSM5099049,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,46,51.159077,44.116623,-1.8833770751953125,White
+genomic DNA from peripheral blood SARS-COV-2+ 27,GSM5099050,positive,3.0,No,Yes,,,ICU,Not Hispanic or Latino,BlackorAA,Male,57,66.35046,66.46459,9.464591979980469,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 11,GSM5099051,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,,Female,34,42.53745,35.032790000000006,1.0327911376953125,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 29,GSM5099052,negative,,No,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Male,90,76.21648,79.616,-10.384002685546875,White
+genomic DNA from peripheral blood SARS-COV-2- 20,GSM5099053,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,19,21.014898000000002,28.463303000000003,9.463302612304688,White
+genomic DNA from peripheral blood SARS-COV-2+ 18,GSM5099054,positive,2.0,Yes,No,2.0,Home,Floor Admission,Hispanic or Latino,,Female,30,37.235863,31.417371999999997,1.4173717498779297,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 2,GSM5099055,other infection,,No,No,,Death,Floor Admission,Not Hispanic or Latino,White,Male,55,63.49205799999999,62.057888,7.057888031005859,White
+genomic DNA from peripheral blood SARS-COV-2+ 12,GSM5099056,positive,2.0,No,No,2.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,63,65.38067,64.97935,1.9793472290039062,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 28,GSM5099057,negative,,No,No,,Home,Floor Admission,Hispanic or Latino,,Female,96,77.78338000000001,81.120224,-14.879776000976562,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 143,GSM5099058,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,61,68.44738000000001,69.61145,8.6114501953125,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 56,GSM5099059,negative,,No,Yes,,Home,ICU,Not Hispanic or Latino,NativeHawaiianorPacificIslander,Female,68,69.06309,70.51253,2.5125274658203125,Other
+genomic DNA from peripheral blood SARS-COV-2- 86,GSM5099060,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,Asian,Male,71,65.398674,65.00702,-5.99298095703125,Asian
+genomic DNA from peripheral blood SARS-COV-2+ 88,GSM5099061,positive,4.0,No,Yes,,Death,ICU,Not Hispanic or Latino,Asian,Male,43,56.09726,50.832287,7.832286834716797,Asian
+genomic DNA from peripheral blood SARS-COV-2- 45,GSM5099062,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,76,68.27969,69.36398,-6.636016845703125,White
+genomic DNA from peripheral blood SARS-COV-2- 130,GSM5099063,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,70,65.84586999999999,65.69358000000001,-4.306419372558594,White
+genomic DNA from peripheral blood SARS-COV-2- 122,GSM5099064,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,43,51.177727000000004,44.140182,1.1401824951171875,White
+genomic DNA from peripheral blood SARS-COV-2- 61,GSM5099065,negative,,,No,,,Floor Admission,Hispanic or Latino,Other,Female,61,63.382445999999995,61.887737,0.8877372741699219,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 146,GSM5099066,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,43,49.498535,42.080459999999995,-0.9195404052734375,White
+genomic DNA from peripheral blood SARS-COV-2- 12,GSM5099067,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,59,60.816742000000005,57.9128,-1.0872001647949219,White
+genomic DNA from peripheral blood SARS-COV-2+ 37,GSM5099068,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,30,37.525307,31.57521,1.5752105712890625,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 22,GSM5099069,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,Asian,Female,65,67.476456,68.167625,3.1676254272460938,Asian
+genomic DNA from peripheral blood SARS-COV-2+ 6,GSM5099070,positive,3.0,No,Yes,15.0,Home,Floor Admission,Not Hispanic or Latino,White,Male,67,68.25848,69.332596,2.3325958251953125,White
+genomic DNA from peripheral blood SARS-COV-2+ 30,GSM5099071,positive,2.0,No,No,6.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Male,83,80.852974,83.33453,0.33453369140625,Asian
+genomic DNA from peripheral blood SARS-COV-2+ 16,GSM5099072,positive,3.0,Yes,Yes,20.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,48,55.212612,49.56581,1.5658111572265625,White
+genomic DNA from peripheral blood SARS-COV-2- 30,GSM5099073,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,81,73.71615600000001,76.79156,-4.208442687988281,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 2,GSM5099074,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,62,67.493935,68.19383,6.1938323974609375,White
+genomic DNA from peripheral blood SARS-COV-2- 68,GSM5099075,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,28,36.77642,31.176009999999998,3.1760101318359375,White
+genomic DNA from peripheral blood SARS-COV-2- 54,GSM5099076,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,30,40.640246999999995,33.561768,3.561767578125,White
+genomic DNA from peripheral blood SARS-COV-2- 79,GSM5099077,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,76,74.09963,77.2547,1.25469970703125,White
+genomic DNA from peripheral blood SARS-COV-2- 91,GSM5099078,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,63,60.143980000000006,56.878769999999996,-6.1212310791015625,White
+genomic DNA from peripheral blood SARS-COV-2- 53,GSM5099080,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,38,42.686170000000004,35.156467,-2.8435325622558594,White
+genomic DNA from peripheral blood SARS-COV-2- 17,GSM5099081,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,78,67.10191999999999,67.60419499999999,-10.395805358886719,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 26,GSM5099083,negative,,No,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,63,67.462776,68.147095,5.1470947265625,White
+genomic DNA from peripheral blood SARS-COV-2+ 13,GSM5099084,positive,2.0,No,No,2.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,51,53.807518,47.60696,-3.3930397033691406,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 14,GSM5099085,positive,2.0,No,No,3.0,Home,Floor Admission,Not Hispanic or Latino,White,Male,84,83.8169,84.352905,0.3529052734375,White
+genomic DNA from peripheral blood SARS-COV-2- 14,GSM5099086,negative,,No,No,,Home,Discharged,Not Hispanic or Latino,White,Female,30,27.707287,28.520212,-1.479787826538086,White
+genomic DNA from peripheral blood SARS-COV-2+ 24,GSM5099087,positive,2.0,No,No,7.0,Home,Floor Admission,Hispanic or Latino,Other,Female,39,52.339817,45.637817,6.6378173828125,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 33,GSM5099088,positive,3.0,No,Yes,8.0,Home,Floor Admission,Hispanic or Latino,Other,Male,64,66.77651999999999,67.112114,3.1121139526367188,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 24,GSM5099089,negative,,Yes,No,,Home,Discharged,Not Hispanic or Latino,White,Female,82,68.55131999999999,69.76442,-12.235580444335938,White
+genomic DNA from peripheral blood SARS-COV-2+ 48,GSM5099090,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,30,39.361107000000004,32.681796999999996,2.6817970275878906,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 136,GSM5099091,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Female,95,78.49037,81.72159,-13.278411865234375,White
+genomic DNA from peripheral blood SARS-COV-2- 82,GSM5099093,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,40,51.59252,44.668236,4.668235778808594,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 84,GSM5099094,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,Asian,Female,18,23.698225,28.365263,10.365262985229492,Asian
+genomic DNA from peripheral blood SARS-COV-2- 129,GSM5099095,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,68,61.13245,58.399754,-9.60024642944336,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 83,GSM5099096,negative,,,Yes,,Death,ICU,Not Hispanic or Latino,White,Female,62,63.006115,61.30344399999999,-0.6965560913085938,White
+genomic DNA from peripheral blood SARS-COV-2- 76,GSM5099097,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,61,65.34308,64.9215,3.9215011596679688,White
+genomic DNA from peripheral blood SARS-COV-2- 151,GSM5099098,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,90,77.52914,80.89177,-9.108230590820312,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 54,GSM5099099,positive,3.0,No,Yes,41.0,Other,Floor Admission,Not Hispanic or Latino,White,Male,58,61.342769999999994,58.724667000000004,0.7246665954589844,White
+genomic DNA from peripheral blood SARS-COV-2- 134,GSM5099100,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,35,50.128002,42.837593,7.837593078613281,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 58,GSM5099101,negative,,No,Yes,,Nursing home or skilled rehab,ICU,Hispanic or Latino,Other,Male,41,48.779278000000005,41.238113,0.2381134033203125,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 178,GSM5099102,negative,,,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Female,86,80.56523,83.17315,-2.8268508911132812,White
+genomic DNA from peripheral blood SARS-COV-2- 41,GSM5099103,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,62,64.05622,62.933043999999995,0.93304443359375,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 70,GSM5099104,negative,,,No,,Home,Discharged,Not Hispanic or Latino,Other,Female,46,53.301212,46.918327000000005,0.9183273315429688,Other
+genomic DNA from peripheral blood SARS-COV-2- 74,GSM5099105,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,36,40.099865,33.179047,-2.820953369140625,White
+genomic DNA from peripheral blood SARS-COV-2+ 76,GSM5099106,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,Other,Female,28,36.649,31.111057000000002,3.1110572814941406,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 64,GSM5099107,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,83,80.361694,83.05284,0.0528411865234375,White
+genomic DNA from peripheral blood SARS-COV-2- 135,GSM5099108,negative,,,No,,Other,Floor Admission,Not Hispanic or Latino,White,Male,28,34.872935999999996,30.294204999999998,2.2942047119140625,White
+genomic DNA from peripheral blood SARS-COV-2- 49,GSM5099109,negative,,,,,,,Not Hispanic or Latino,White,Female,82,70.53708,72.61394,-9.386062622070312,White
+genomic DNA from peripheral blood SARS-COV-2- 85,GSM5099110,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,54,60.65679,57.66648000000001,3.6664810180664062,White
+genomic DNA from peripheral blood SARS-COV-2+ 39,GSM5099111,positive,1.0,No,No,0.0,Death,Discharged,Not Hispanic or Latino,White,Male,50,50.163864000000004,42.881287,-7.11871337890625,White
+genomic DNA from peripheral blood SARS-COV-2- 35,GSM5099112,negative,,Yes,Yes,,,Death,Hispanic or Latino,,Female,32,32.262478,29.38165,-2.618349075317383,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 38,GSM5099113,negative,,No,Yes,,Death,Floor Admission,Not Hispanic or Latino,White,Male,68,69.13525,70.61731,2.6173095703125,White
+genomic DNA from peripheral blood SARS-COV-2+ 29,GSM5099114,positive,2.0,No,No,8.0,Home,Floor Admission,Hispanic or Latino,Other,Male,45,50.7908,43.65435,-1.3456497192382812,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 4,GSM5099115,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,,Female,62,61.39090699999999,58.799088,-3.2009124755859375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 25,GSM5099116,negative,,No,No,,Death,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,76,65.46243,65.10507,-10.894927978515625,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 19,GSM5099117,positive,2.0,No,No,7.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Female,67,66.26654,66.33665500000001,-0.6633453369140625,Asian
+genomic DNA from peripheral blood SARS-COV-2- 187,GSM5099118,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,36,50.39631,43.165833,7.16583251953125,White
+genomic DNA from peripheral blood SARS-COV-2- 162,GSM5099120,negative,,,No,,Other,Floor Admission,Hispanic or Latino,White,Male,47,52.261074,45.53456,-1.4654388427734375,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 7,GSM5099121,positive,2.0,No,No,7.0,Home,Floor Admission,Hispanic or Latino,,Female,25,27.298498,28.482235,3.4822349548339844,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 6,GSM5099122,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,56,65.29852,64.85293,8.852928161621094,White
+genomic DNA from peripheral blood SARS-COV-2- 23,GSM5099123,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,62,66.94005600000001,67.359695,5.3596954345703125,White
+genomic DNA from peripheral blood SARS-COV-2+ 1,GSM5099124,positive,3.0,No,Yes,7.0,Home,Floor Admission,Hispanic or Latino,Other,Male,52,57.424643999999994,52.774715,0.7747154235839844,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 31,GSM5099125,negative,,No,No,,Home,Discharged,Hispanic or Latino,White,Male,43,53.944846999999996,47.795364,4.7953643798828125,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 40,GSM5099126,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,White,Female,40,44.4177,36.685215,-3.3147850036621094,White
+genomic DNA from peripheral blood SARS-COV-2- 10,GSM5099127,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,41,46.924853999999996,39.183009999999996,-1.8169898986816406,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 21,GSM5099128,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,BlackorAA,Male,33,45.521656,37.74426,4.744258880615234,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 46,GSM5099130,positive,2.0,Yes,No,2.0,Home,Floor Admission,Hispanic or Latino,Other,Male,39,41.445786,34.16215,-4.837848663330078,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 50,GSM5099131,negative,,,Yes,,Other,ICU,Not Hispanic or Latino,White,Male,57,64.56832,63.726025,6.726024627685547,White
+genomic DNA from peripheral blood SARS-COV-2- 182,GSM5099132,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,58,66.21048,66.25113,8.251129150390625,White
+genomic DNA from peripheral blood SARS-COV-2- 155,GSM5099133,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,77,74.44004,77.65729499999999,0.6572952270507812,White
+genomic DNA from peripheral blood SARS-COV-2- 43,GSM5099134,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Female,27,30.12708,28.871206,1.871206283569336,White
+genomic DNA from peripheral blood SARS-COV-2- 142,GSM5099135,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,74,69.185295,70.68988,-3.31011962890625,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 89,GSM5099136,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,73,66.10148000000001,66.08466999999999,-6.9153289794921875,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 90,GSM5099137,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,28,40.802334,33.679695,5.679695129394531,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 152,GSM5099138,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,20,25.354845,28.374878000000002,8.3748779296875,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 173,GSM5099139,negative,,,No,,Other,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,64,57.17207,52.401543,-11.598457336425781,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 137,GSM5099140,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,76,78.08567,81.38358000000001,5.383583068847656,White
+genomic DNA from peripheral blood SARS-COV-2- 176,GSM5099141,negative,,No,Yes,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,69,64.04109,62.909603000000004,-6.090396881103516,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 175,GSM5099142,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,77,67.4391,68.11158,-8.888420104980469,White
+genomic DNA from peripheral blood SARS-COV-2- 139,GSM5099143,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,68,70.42695,72.45999,4.459991455078125,White
+genomic DNA from peripheral blood SARS-COV-2- 71,GSM5099144,negative,,,No,,,Floor Admission,Not Hispanic or Latino,White,Female,35,31.93603,29.290432,-5.709568023681641,White
+genomic DNA from peripheral blood SARS-COV-2- 78,GSM5099146,negative,,No,Yes,,,ICU,Hispanic or Latino,Other,Male,53,54.29264499999999,48.275562,-4.724437713623047,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 94,GSM5099147,negative,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,AmericanIndianorAlaskanNative,Female,39,46.761333,39.010090000000005,0.010089874267578125,Other
+genomic DNA from peripheral blood SARS-COV-2- 148,GSM5099148,negative,,,,,Home,Floor Admission,Not Hispanic or Latino,White,Female,73,65.85955,65.71454,-7.28546142578125,White
+genomic DNA from peripheral blood SARS-COV-2+ 53,GSM5099149,positive,2.0,No,No,12.0,Other,Floor Admission,Not Hispanic or Latino,White,Male,76,79.79241,82.69,6.69000244140625,White
+genomic DNA from peripheral blood SARS-COV-2+ 55,GSM5099150,positive,2.0,No,No,12.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,79,72.517555,75.282875,-3.7171249389648438,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 80,GSM5099151,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,58,59.739067000000006,56.2593,-1.7406997680664062,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 79,GSM5099153,positive,3.0,No,Yes,10.0,Home,ICU,Hispanic or Latino,Other,Male,36,37.859584999999996,31.763103000000005,-4.236896514892578,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 167,GSM5099154,negative,,,No,,Other,Floor Admission,Not Hispanic or Latino,White,Male,35,45.421479999999995,37.64548,2.6454811096191406,White
+genomic DNA from peripheral blood SARS-COV-2- 158,GSM5099155,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,57,61.974815,59.703087,2.7030868530273438,White
+genomic DNA from peripheral blood SARS-COV-2- 126,GSM5099156,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,33,47.467632,39.766735,6.766735076904297,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 168,GSM5099157,negative,,No,No,,Other,Floor Admission,Not Hispanic or Latino,White,Male,73,64.2488,63.23145,-9.768550872802734,White
+genomic DNA from peripheral blood SARS-COV-2- 52,GSM5099158,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,Other,Male,65,59.448105000000005,55.815704000000004,-9.184295654296875,Other
+genomic DNA from peripheral blood SARS-COV-2+ 49,GSM5099159,positive,3.0,No,Yes,12.0,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,63,57.36738199999999,52.689969999999995,-10.31003189086914,BlackorAA
+genomic DNA from peripheral blood OtherInfection 6,GSM5099160,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,30,29.12433,28.698332,-1.3016681671142578,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 166,GSM5099161,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,43,57.416813,52.763123,9.76312255859375,White
+genomic DNA from peripheral blood SARS-COV-2- 132,GSM5099162,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,76,69.62731,71.32686,-4.6731414794921875,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 133,GSM5099163,negative,,,No,,,Floor Admission,Not Hispanic or Latino,White,Female,84,75.27596,78.60988,-5.3901214599609375,White
+genomic DNA from peripheral blood SARS-COV-2- 88,GSM5099164,negative,,No,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,67,65.54502,65.23201,-1.7679901123046875,White
+genomic DNA from peripheral blood SARS-COV-2- 69,GSM5099165,negative,,,No,,Other,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,58,55.357014,49.77089,-8.229110717773438,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 1,GSM5099166,negative,,Yes,Yes,,Home,Floor Admission,Hispanic or Latino,,Female,24,24.719053,28.363276000000003,4.363275527954102,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 36,GSM5099167,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,30,42.128727000000005,34.69914,4.699138641357422,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 3,GSM5099169,other infection,,Yes,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,77,71.79947,74.33845500000001,-2.6615447998046875,White
+genomic DNA from peripheral blood SARS-COV-2+ 35,GSM5099170,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,White,Female,56,56.484669999999994,51.394226,-4.60577392578125,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 38,GSM5099171,positive,2.0,No,No,2.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,65,64.767426,64.03380600000001,-0.9661941528320312,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 23,GSM5099172,positive,2.0,No,No,2.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,42,48.080837,40.44405,-1.5559501647949219,White
+genomic DNA from peripheral blood SARS-COV-2- 3,GSM5099173,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,81,68.978004,70.38875999999999,-10.611236572265625,White
+genomic DNA from peripheral blood SARS-COV-2- 15,GSM5099174,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,80,69.15302,70.64309,-9.356910705566406,White
+genomic DNA from peripheral blood SARS-COV-2- 18,GSM5099175,negative,,No,,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,59,56.677006000000006,51.67478,-7.325218200683594,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 2,GSM5099176,positive,2.0,No,No,4.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Female,25,37.121272999999995,31.35612,6.356119155883789,Asian
+genomic DNA from peripheral blood SARS-COV-2+ 28,GSM5099177,positive,3.0,No,Yes,10.0,Home,Floor Admission,Hispanic or Latino,Other,Female,28,40.490395,33.454018,5.454017639160156,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 41,GSM5099178,positive,2.0,No,No,4.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,53,61.595314,59.115280000000006,6.1152801513671875,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 32,GSM5099179,positive,3.0,No,Yes,3.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,43,53.128704000000006,46.685913,3.6859130859375,White
+genomic DNA from peripheral blood SARS-COV-2- 27,GSM5099180,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,25,29.697397,28.792156,3.792156219482422,White
+genomic DNA from peripheral blood SARS-COV-2+ 85,GSM5099181,positive,2.0,No,No,11.0,Home,Floor Admission,Hispanic or Latino,Other,Male,33,32.555283,29.467665000000004,-3.5323352813720703,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 169,GSM5099182,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,32,34.241985,30.042961,-1.9570388793945312,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 170,GSM5099183,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,56,59.258053000000004,55.52669,-0.4733085632324219,White
+genomic DNA from peripheral blood SARS-COV-2- 180,GSM5099184,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,83,75.93229000000001,79.3197,-3.6802978515625,White
+genomic DNA from peripheral blood SARS-COV-2+ 50,GSM5099185,positive,2.0,No,No,18.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,70,65.98218,65.90227,-4.0977325439453125,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 58,GSM5099186,positive,3.0,No,Yes,13.0,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,BlackorAA,Female,81,66.08776,66.063705,-14.936294555664062,BlackorAA
+genomic DNA from peripheral blood OtherInfection 4,GSM5099187,other infection,,Yes,No,,Home,Discharged,Not Hispanic or Latino,White,Female,47,52.4586,45.794044,-1.2059555053710938,White
+genomic DNA from peripheral blood SARS-COV-2+ 15,GSM5099188,positive,2.0,No,,,Home,Floor Admission,Hispanic or Latino,,Male,62,62.099163,59.895863,-2.104137420654297,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 1,GSM5099189,other infection,,Yes,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Male,49,54.919792,49.15206,0.15206146240234375,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 34,GSM5099190,negative,,No,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,42,58.009953,53.645447,11.64544677734375,White
+genomic DNA from peripheral blood SARS-COV-2+ 34,GSM5099191,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,White,Male,52,54.677006000000006,48.811157,-3.1888427734375,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 8,GSM5099192,negative,,Yes,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,57,59.870219999999996,56.459681999999994,-0.5403175354003906,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 5,GSM5099193,positive,2.0,No,No,5.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,43,51.701992,44.808807,1.808807373046875,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 131,GSM5099194,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,30,31.239061,29.111902,-0.8880977630615234,White
+genomic DNA from peripheral blood SARS-COV-2- 75,GSM5099195,negative,,,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Male,69,68.85786999999999,70.21359,1.213592529296875,White
+genomic DNA from peripheral blood SARS-COV-2- 138,GSM5099196,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,59,57.136227000000005,52.348694,-6.65130615234375,White
+genomic DNA from peripheral blood SARS-COV-2- 92,GSM5099197,negative,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,White,Male,72,72.11451,74.75629,2.75628662109375,White
+genomic DNA from peripheral blood SARS-COV-2- 163,GSM5099199,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,42,56.074909999999996,50.800003000000004,8.800003051757812,White
+genomic DNA from peripheral blood SARS-COV-2+ 81,GSM5099200,positive,2.0,No,No,8.0,Home,Floor Admission,Not Hispanic or Latino,White,Male,73,71.9297,74.51184,1.5118408203125,White
+genomic DNA from peripheral blood SARS-COV-2- 153,GSM5099201,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,72,71.05363,73.32882,1.3288192749023438,White
+genomic DNA from peripheral blood SARS-COV-2- 145,GSM5099202,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,51,58.231228,53.97665799999999,2.9766578674316406,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 43,GSM5099203,positive,2.0,No,No,15.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,73,73.59736,76.64611,3.6461105346679688,White
+genomic DNA from peripheral blood SARS-COV-2+ 59,GSM5099204,positive,3.0,,Yes,17.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,AmericanIndianorAlaskanNative,Female,65,64.55944000000001,63.712272999999996,-1.2877273559570312,Other
+genomic DNA from peripheral blood SARS-COV-2- 149,GSM5099205,negative,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,64,72.15335,74.80744,10.807441711425781,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 72,GSM5099207,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,93,83.31667,84.26865,-8.731353759765625,White
+genomic DNA from peripheral blood SARS-COV-2- 90,GSM5099208,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,89,75.75596999999999,79.13246,-9.867538452148438,White
+genomic DNA from peripheral blood SARS-COV-2- 189,GSM5099209,negative,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,White,Female,32,37.001728,31.292966999999997,-0.7070331573486328,White
+genomic DNA from peripheral blood SARS-COV-2+ 86,GSM5099210,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,48,50.90985,43.80314,-4.196861267089844,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 65,GSM5099211,negative,,,Yes,,,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,37,44.180279999999996,36.465973,-0.534027099609375,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 57,GSM5099212,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,53,59.883602,56.48016,3.4801597595214844,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 83,GSM5099214,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,Other,Female,58,62.548515,60.593002,2.5930023193359375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 165,GSM5099215,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,38,47.0805,39.348859999999995,1.3488616943359375,White
+genomic DNA from peripheral blood SARS-COV-2- 127,GSM5099216,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,68,62.19094499999999,60.038197,-7.961803436279297,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 56,GSM5099217,positive,3.0,No,Yes,32.0,Nursing home or skilled rehab,ICU,Hispanic or Latino,Other,Female,34,38.96865,32.42982,-1.5701789855957031,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 73,GSM5099218,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,65,63.770424,62.489853000000004,-2.5101470947265625,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 80,GSM5099219,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,49,57.425906999999995,52.776604000000006,3.7766036987304688,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 121,GSM5099220,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,25,28.070295,28.558822999999997,3.5588226318359375,White
+genomic DNA from peripheral blood SARS-COV-2+ 78,GSM5099221,positive,3.0,No,Yes,8.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,30,26.442194,28.420668,-1.5793323516845703,White
+genomic DNA from peripheral blood SARS-COV-2- 140,GSM5099222,negative,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,72,68.403465,69.54672,-2.453277587890625,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 39,GSM5099223,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,58,62.03783000000001,59.800777000000004,1.8007774353027344,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 48,GSM5099224,negative,,No,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,75,65.098274,64.54443,-10.45556640625,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 181,GSM5099225,negative,,No,Yes,,,ICU,Hispanic or Latino,Other,Male,52,51.9528,45.132782,-6.867218017578125,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 44,GSM5099226,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,45,45.061428,37.294853,-7.705146789550781,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 47,GSM5099227,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,60,56.46394,51.364044,-8.635955810546875,White
+genomic DNA from peripheral blood SARS-COV-2- 81,GSM5099228,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,64,70.11479,72.020744,8.020744323730469,White
+genomic DNA from peripheral blood SARS-COV-2+ 87,GSM5099229,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,43,53.19701,46.777817,3.7778167724609375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 42,GSM5099230,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,72,69.75343000000001,71.50728000000001,-0.4927215576171875,White
+genomic DNA from peripheral blood SARS-COV-2- 46,GSM5099231,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,92,78.89287,82.04078,-9.959220886230469,White
+genomic DNA from peripheral blood SARS-COV-2+ 57,GSM5099232,positive,4.0,No,Yes,,Death,Floor Admission,Not Hispanic or Latino,NativeHawaiianorPacificIslander,Male,43,51.32645,44.328666999999996,1.3286666870117188,Other
+genomic DNA from peripheral blood SARS-COV-2- 218,GSM5099233,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,Asian,Female,60,64.073265,62.959465,2.9594650268554688,Asian
+genomic DNA from peripheral blood SARS-COV-2- 239,GSM5099234,negative,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,26,31.786265999999998,29.250221000000003,3.2502212524414062,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 277,GSM5099235,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,54,58.689114000000004,54.665302000000004,0.6653022766113281,White
+genomic DNA from peripheral blood SARS-COV-2+ 118,GSM5099236,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,White,Male,44,52.978218000000005,46.4841,2.484100341796875,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 275,GSM5099237,negative,,,Yes,,,ICU,Not Hispanic or Latino,Asian,Female,67,65.39846999999999,65.006714,-1.9932861328125,Asian
+genomic DNA from peripheral blood SARS-COV-2+ 117,GSM5099238,positive,2.0,No,No,12.0,Home,Floor Admission,Hispanic or Latino,Other,Male,53,58.68153,54.65388000000001,1.6538810729980469,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 242,GSM5099239,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Male,74,69.41821999999999,71.02644000000001,-2.9735565185546875,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 246,GSM5099240,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,44,49.953728000000005,42.626144000000004,-1.3738555908203125,White
+genomic DNA from peripheral blood SARS-COV-2+ 119,GSM5099241,positive,2.0,No,No,6.0,Home,Floor Admission,Hispanic or Latino,Other,Female,48,57.534924,52.938156000000006,4.9381561279296875,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 195,GSM5099242,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,63,69.32459,70.89139,7.891387939453125,White
+genomic DNA from peripheral blood SARS-COV-2- 209,GSM5099243,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,33,34.329346,30.076553000000004,-2.9234466552734375,White
+genomic DNA from peripheral blood SARS-COV-2- 247,GSM5099244,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,59,59.5911,56.03355,-2.966449737548828,White
+genomic DNA from peripheral blood SARS-COV-2- 219,GSM5099245,negative,,,No,,Home,Floor Admission,,,Female,18,21.00504,28.463842,10.463842391967773,
+genomic DNA from peripheral blood SARS-COV-2+ 122,GSM5099246,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,69,64.4746,63.581036,-5.418964385986328,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 103,GSM5099248,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,49,53.189426,46.767590000000006,-2.232410430908203,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 97,GSM5099249,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,47,53.052338,46.58338,-0.41661834716796875,White
+genomic DNA from peripheral blood SARS-COV-2- 200,GSM5099250,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,34,49.72018,42.34497,8.344970703125,White
+genomic DNA from peripheral blood SARS-COV-2- 198,GSM5099251,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,56,60.155964000000004,56.897144,0.8971443176269531,White
+genomic DNA from peripheral blood OtherInfection 38,GSM5099252,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,71,71.91149,74.487656,3.4876556396484375,White
+genomic DNA from peripheral blood OtherInfection 39,GSM5099253,other infection,,,No,,Home,Discharged,Hispanic or Latino,Other,Male,40,49.88045,42.537643,2.5376434326171875,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 58,GSM5099254,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,19,18.737638,28.603363,9.603363037109375,White
+genomic DNA from peripheral blood SARS-COV-2+ 71,GSM5099256,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,Other,Male,32,41.548977,34.241642,2.2416419982910156,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 61,GSM5099257,other infection,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,36,44.072956,36.367874,0.3678741455078125,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 49,GSM5099258,other infection,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,79,74.32804,77.52571,-1.4742889404296875,BlackorAA
+genomic DNA from peripheral blood OtherInfection 33,GSM5099259,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,42,51.773907,44.90143,2.90142822265625,White
+genomic DNA from peripheral blood SARS-COV-2+ 74,GSM5099260,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,25,31.738882,29.237713,4.237712860107422,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 52,GSM5099261,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,82,66.134895,66.13571,-15.864288330078125,BlackorAA
+genomic DNA from peripheral blood OtherInfection 31,GSM5099262,other infection,,,No,,Other,Discharged,Hispanic or Latino,Other,Male,45,51.16447,44.123436,-0.8765640258789062,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 63,GSM5099263,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,60,57.999733,53.630165000000005,-6.369834899902344,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 63,GSM5099264,other infection,,,No,,,Discharged,Not Hispanic or Latino,White,Female,64,66.65952,66.93465400000001,2.9346542358398438,White
+genomic DNA from peripheral blood SARS-COV-2- 104,GSM5099265,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,77,64.135414,63.055781999999994,-13.944217681884766,White
+genomic DNA from peripheral blood SARS-COV-2+ 62,GSM5099266,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,42,45.219184999999996,37.447635999999996,-4.552364349365234,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 111,GSM5099267,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,84,68.53425,69.73931999999999,-14.26068115234375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 75,GSM5099268,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,Other,Female,71,64.55077,63.698875,-7.301124572753906,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 23,GSM5099269,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,87,69.15913,70.65193000000001,-16.348068237304688,White
+genomic DNA from peripheral blood SARS-COV-2- 266,GSM5099270,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Female,34,49.46751,42.043625,8.043624877929688,White
+genomic DNA from peripheral blood SARS-COV-2+ 120,GSM5099271,positive,4.0,No,Yes,,,Death,,White,Male,37,41.42566,34.146713,-2.8532867431640625,White
+genomic DNA from peripheral blood OtherInfection 10,GSM5099272,other infection,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,50,58.117709999999995,53.80661800000001,3.8066177368164062,White
+genomic DNA from peripheral blood SARS-COV-2+ 130,GSM5099273,positive,3.0,No,Yes,27.0,Home,ICU,Not Hispanic or Latino,Asian,Male,19,17.20926,28.696790000000004,9.69679069519043,Asian
+genomic DNA from peripheral blood SARS-COV-2- 269,GSM5099274,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,61,63.164898,61.549976,0.5499763488769531,BlackorAA
+genomic DNA from peripheral blood OtherInfection 13,GSM5099275,other infection,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,35,44.716976,36.96588,1.96588134765625,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 208,GSM5099276,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,50,59.882206000000004,56.478004000000006,6.478004455566406,White
+genomic DNA from peripheral blood SARS-COV-2- 203,GSM5099277,negative,,,No,,,Floor Admission,Not Hispanic or Latino,White,Male,58,68.758675,70.068565,12.068565368652344,White
+genomic DNA from peripheral blood SARS-COV-2- 222,GSM5099279,negative,,,No,,Other,Floor Admission,Hispanic or Latino,Other,Female,51,63.92821,62.734595999999996,11.734596252441406,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 190,GSM5099280,negative,,,No,,,,Not Hispanic or Latino,BlackorAA,Female,23,33.16081,29.658371000000002,6.6583709716796875,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 123,GSM5099281,positive,2.0,No,No,6.0,Other,Floor Admission,Not Hispanic or Latino,White,Male,49,52.494907,45.84191,-3.1580886840820312,White
+genomic DNA from peripheral blood SARS-COV-2- 191,GSM5099282,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,60,59.65509399999999,56.131126,-3.8688735961914062,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 244,GSM5099283,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,67,65.41241,65.02816999999999,-1.971832275390625,White
+genomic DNA from peripheral blood SARS-COV-2+ 125,GSM5099284,positive,2.0,No,No,8.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,86,82.21547,83.95398,-2.0460205078125,White
+genomic DNA from peripheral blood SARS-COV-2- 217,GSM5099285,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,28,38.041676,31.867991999999997,3.867992401123047,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 251,GSM5099286,negative,,,No,,Other,Discharged,Not Hispanic or Latino,White,Female,41,48.915207,41.395424,0.39542388916015625,White
+genomic DNA from peripheral blood SARS-COV-2- 255,GSM5099287,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,Other,Male,48,50.916615,43.811615,-4.188385009765625,Other
+genomic DNA from peripheral blood SARS-COV-2- 220,GSM5099288,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,59,63.367940000000004,61.865223,2.865222930908203,White
+genomic DNA from peripheral blood SARS-COV-2- 243,GSM5099289,negative,,,No,,Other,Discharged,Hispanic or Latino,Other,Female,17,16.842514,28.716658000000002,11.716657638549805,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 114,GSM5099290,positive,2.0,No,No,3.0,Home,Floor Admission,Not Hispanic or Latino,White,Male,74,72.21710999999999,74.891235,0.8912353515625,White
+genomic DNA from peripheral blood SARS-COV-2- 234,GSM5099291,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,52,58.699419999999996,54.680866,2.680866241455078,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 254,GSM5099292,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Female,42,47.3894,39.681683,-2.318317413330078,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 202,GSM5099293,negative,,,No,,,Floor Admission,Not Hispanic or Latino,White,Male,79,84.11282,84.384796,5.384796142578125,White
+genomic DNA from peripheral blood SARS-COV-2- 193,GSM5099294,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,34,43.999683000000005,36.30125,2.301250457763672,White
+genomic DNA from peripheral blood SARS-COV-2- 250,GSM5099295,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,53,54.387080000000005,48.406677,-4.59332275390625,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 119,GSM5099296,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,39,48.759518,41.215332000000004,2.21533203125,White
+genomic DNA from peripheral blood SARS-COV-2- 257,GSM5099297,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,Other,Female,18,20.945559,28.467115000000003,10.46711540222168,Other
+genomic DNA from peripheral blood SARS-COV-2- 212,GSM5099298,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,77,70.02444,71.89284,-5.1071624755859375,White
+genomic DNA from peripheral blood SARS-COV-2- 253,GSM5099299,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,31,34.916294,30.312209999999997,-0.6877899169921875,White
+genomic DNA from peripheral blood SARS-COV-2+ 72,GSM5099300,positive,4.0,No,No,,Death,Floor Admission,Not Hispanic or Latino,Asian,Female,82,78.11101500000001,81.40522,-0.5947799682617188,Asian
+genomic DNA from peripheral blood SARS-COV-2- 258,GSM5099301,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,64,60.443752,57.33885,-6.661151885986328,White
+genomic DNA from peripheral blood SARS-COV-2- 278,GSM5099302,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Male,30,25.097089999999998,28.368902000000002,-1.6310977935791016,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 210,GSM5099303,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,24,22.23401,28.405136,4.4051361083984375,White
+genomic DNA from peripheral blood SARS-COV-2- 249,GSM5099304,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,74,67.122215,67.6348,-6.365196228027344,White
+genomic DNA from peripheral blood SARS-COV-2- 221,GSM5099305,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,65,68.17086,69.20293000000001,4.2029266357421875,White
+genomic DNA from peripheral blood SARS-COV-2+ 111,GSM5099306,positive,2.0,No,No,10.0,Home,Floor Admission,Hispanic or Latino,Other,Female,42,46.711967,38.95816,-3.041839599609375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 117,GSM5099307,negative,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,65,60.645,57.64833,-7.3516693115234375,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 226,GSM5099308,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,71,76.04335,79.43629,8.436286926269531,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 124,GSM5099309,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Male,36,48.218655,40.59884,4.598838806152344,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 201,GSM5099310,negative,,,No,,Home,Floor Admission,Hispanic or Latino,White,Male,69,63.26254,61.70157,-7.298431396484375,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 282,GSM5099311,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,47,52.187115000000006,45.43782,-1.5621795654296875,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 271,GSM5099312,negative,,,No,,Other,Discharged,Not Hispanic or Latino,White,Female,27,34.090946,29.985778999999997,2.98577880859375,White
+genomic DNA from peripheral blood SARS-COV-2+ 132,GSM5099313,positive,2.0,No,No,39.0,Home,Floor Admission,Not Hispanic or Latino,,Male,82,71.65963,74.15131,-7.848686218261719,
+genomic DNA from peripheral blood SARS-COV-2- 283,GSM5099314,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,35,50.29829,43.045547,8.045547485351562,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 138,GSM5099315,positive,4.0,No,Yes,,Death,ICU,Not Hispanic or Latino,White,Male,33,35.563084,30.592185999999998,-2.4078140258789062,White
+genomic DNA from peripheral blood SARS-COV-2- 285,GSM5099316,negative,,,Yes,,Home,Floor Admission,Hispanic or Latino,Other,Female,54,54.11323,48.027317,-5.972682952880859,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 205,GSM5099317,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,35,39.38471,32.697227000000005,-2.3027725219726562,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 230,GSM5099318,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,68,65.75368,65.55226,-2.4477386474609375,White
+genomic DNA from peripheral blood SARS-COV-2- 224,GSM5099319,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,72,71.13134000000001,73.43531999999999,1.4353179931640625,White
+genomic DNA from peripheral blood SARS-COV-2- 215,GSM5099320,negative,,,No,,,Discharged,Not Hispanic or Latino,BlackorAA,Female,39,47.201946,39.47914,0.4791412353515625,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 227,GSM5099321,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,77,81.78094,83.78310400000001,6.783103942871094,White
+genomic DNA from peripheral blood SARS-COV-2- 240,GSM5099322,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,46,52.49788,45.845833,-0.15416717529296875,BlackorAA
+genomic DNA from peripheral blood OtherInfection 40,GSM5099324,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,66,68.0759,69.0621,3.062103271484375,White
+genomic DNA from peripheral blood OtherInfection 42,GSM5099325,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,45,53.045593000000004,46.57435,1.5743484497070312,White
+genomic DNA from peripheral blood SARS-COV-2+ 106,GSM5099326,positive,1.0,No,No,0.0,,Discharged,Hispanic or Latino,Other,Female,47,50.561565,43.36962,-3.6303787231445312,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 47,GSM5099327,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,54,58.046715,53.70041,-0.299591064453125,White
+genomic DNA from peripheral blood SARS-COV-2- 96,GSM5099329,negative,,,No,,,Floor Admission,Hispanic or Latino,Other,Male,64,63.14059,61.512234,-2.4877662658691406,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 108,GSM5099330,positive,2.0,No,No,14.0,Other,Floor Admission,Not Hispanic or Latino,White,Male,49,53.31912,46.94252,-2.0574798583984375,White
+genomic DNA from peripheral blood OtherInfection 43,GSM5099331,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,69,70.74845,72.90796,3.907958984375,White
+genomic DNA from peripheral blood SARS-COV-2+ 115,GSM5099332,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Female,41,55.692364000000005,50.24964,9.249641418457031,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 241,GSM5099333,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,42,54.13072,48.05146,6.051460266113281,White
+genomic DNA from peripheral blood SARS-COV-2- 276,GSM5099334,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,20,23.16873,28.375159999999997,8.375160217285156,White
+genomic DNA from peripheral blood SARS-COV-2- 245,GSM5099336,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,30,44.091038,36.384357,6.384357452392578,White
+genomic DNA from peripheral blood SARS-COV-2+ 110,GSM5099337,positive,2.0,No,No,5.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,59,59.73325,56.250423,-2.7495765686035156,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 229,GSM5099338,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,51,55.038000000000004,49.31877,-1.6812286376953125,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 133,GSM5099339,positive,2.0,No,No,7.0,Home,Floor Admission,Hispanic or Latino,Other,Female,52,57.85714300000001,53.417366,1.4173660278320312,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 35,GSM5099340,other infection,,,No,,Home,Discharged,Hispanic or Latino,,Female,38,46.858776,39.112976,1.11297607421875,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 60,GSM5099341,positive,2.0,No,No,6.0,Other,Floor Admission,Hispanic or Latino,Other,Male,40,47.33697,39.624855,-0.37514495849609375,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 62,GSM5099342,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,75,89.0295,82.71478,7.71478271484375,White
+genomic DNA from peripheral blood SARS-COV-2+ 101,GSM5099343,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,White,Female,64,63.978127,62.811977,-1.1880226135253906,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 103,GSM5099344,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,80,79.766624,82.6727,2.672698974609375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 106,GSM5099345,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,69,65.33048000000001,64.90211500000001,-4.0978851318359375,White
+genomic DNA from peripheral blood SARS-COV-2+ 93,GSM5099346,positive,2.0,No,No,8.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,56,63.176956000000004,61.568695,5.568695068359375,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 91,GSM5099347,positive,2.0,No,No,2.0,Home,Floor Admission,Hispanic or Latino,Other,Female,58,58.276592,54.044693,-3.9553070068359375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 115,GSM5099348,negative,,,No,,Other,Floor Admission,,,Male,49,56.85755,51.939083000000004,2.9390830993652344,
+genomic DNA from peripheral blood SARS-COV-2+ 73,GSM5099349,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,33,42.840282,35.285908,2.285907745361328,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 44,GSM5099350,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,70,66.44964,66.61563000000001,-3.384368896484375,BlackorAA
+genomic DNA from peripheral blood OtherInfection 57,GSM5099351,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,48,50.057809999999996,42.75226,-5.24774169921875,BlackorAA
+genomic DNA from peripheral blood OtherInfection 34,GSM5099352,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,30,32.961082,29.593542,-0.40645790100097656,White
+genomic DNA from peripheral blood SARS-COV-2+ 105,GSM5099353,positive,1.0,,,0.0,,,Hispanic or Latino,White,Female,37,48.155105999999996,40.527347999999996,3.5273475646972656,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 110,GSM5099354,negative,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Female,68,65.353424,64.93741999999999,-3.0625762939453125,BlackorAA
+genomic DNA from peripheral blood OtherInfection 56,GSM5099355,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,44,52.074593,45.291046,1.291046142578125,White
+genomic DNA from peripheral blood SARS-COV-2+ 64,GSM5099356,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,Asian,Male,67,63.19393,61.595066,-5.404933929443359,Asian
+genomic DNA from peripheral blood OtherInfection 53,GSM5099357,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,31,38.490425,32.134136,1.1341361999511719,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 70,GSM5099358,positive,2.0,No,No,4.0,Home,Floor Admission,Not Hispanic or Latino,Other,Male,53,65.2775,64.82054000000001,11.820541381835938,Other
+genomic DNA from peripheral blood SARS-COV-2+ 96,GSM5099359,positive,2.0,No,No,9.0,Nursing home or skilled rehab,Floor Admission,Hispanic or Latino,Other,Male,50,58.121,53.811530000000005,3.8115310668945312,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 55,GSM5099360,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,62,69.63207,71.33368,9.33367919921875,White
+genomic DNA from peripheral blood SARS-COV-2- 100,GSM5099361,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,42,48.595622999999996,41.02702,-0.9729804992675781,White
+genomic DNA from peripheral blood SARS-COV-2- 105,GSM5099362,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,77,67.3646,67.99968,-9.000320434570312,White
+genomic DNA from peripheral blood SARS-COV-2- 194,GSM5099363,negative,,,No,,,Discharged,Not Hispanic or Latino,White,Female,56,63.664516000000006,62.325540000000004,6.325538635253906,White
+genomic DNA from peripheral blood SARS-COV-2+ 116,GSM5099364,positive,2.0,No,No,6.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,94,77.75149,81.09193,-12.908073425292969,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 235,GSM5099365,negative,,,No,,Home,Discharged,Not Hispanic or Latino,White,Female,55,61.978416,59.70867,4.708671569824219,White
+genomic DNA from peripheral blood SARS-COV-2+ 121,GSM5099366,positive,1.0,No,No,0.0,Home,Discharged,,,Male,19,27.022015000000003,28.459753000000003,9.459753036499023,
+genomic DNA from peripheral blood SARS-COV-2- 238,GSM5099367,negative,,,No,,Home,Discharged,Not Hispanic or Latino,Asian,Female,31,36.437473,31.00514,0.0051403045654296875,Asian
+genomic DNA from peripheral blood SARS-COV-2+ 127,GSM5099368,positive,2.0,No,No,3.0,Home,Floor Admission,Hispanic or Latino,Other,Male,31,38.159008,31.936525,0.9365253448486328,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 237,GSM5099369,negative,,,No,,,Discharged,Not Hispanic or Latino,White,Female,35,44.985836,37.222122,2.2221221923828125,White
+genomic DNA from peripheral blood SARS-COV-2- 270,GSM5099370,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,69,63.80289499999999,62.540222,-6.45977783203125,White
+genomic DNA from peripheral blood SARS-COV-2- 211,GSM5099371,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,60,62.997173,61.28955500000001,1.2895545959472656,White
+genomic DNA from peripheral blood OtherInfection 14,GSM5099372,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,81,64.42998,63.51198,-17.488021850585938,White
+genomic DNA from peripheral blood OtherInfection 17,GSM5099373,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Male,22,20.354517,28.50126,6.501260757446289,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 112,GSM5099374,positive,4.0,No,Yes,,Death,ICU,Not Hispanic or Latino,White,Male,78,76.44861999999999,79.8529,1.8528976440429688,White
+genomic DNA from peripheral blood OtherInfection 29,GSM5099375,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,White,Male,57,64.64921600000001,63.85111,6.851108551025391,White
+genomic DNA from peripheral blood OtherInfection 27,GSM5099376,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,77,67.87037,68.756485,-8.243515014648438,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 260,GSM5099377,negative,,,Yes,,,ICU,Not Hispanic or Latino,White,Male,47,51.17416,44.135690000000004,-2.8643112182617188,White
+genomic DNA from peripheral blood SARS-COV-2- 216,GSM5099378,negative,,,Yes,,,ICU,Not Hispanic or Latino,White,Male,72,72.28919,74.98563,2.985626220703125,White
+genomic DNA from peripheral blood SARS-COV-2+ 129,GSM5099379,positive,3.0,No,Yes,2.0,Home,ICU,Not Hispanic or Latino,BlackorAA,Male,50,59.94400400000001,56.57253000000001,6.572528839111328,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 263,GSM5099380,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,63,72.95812,75.8477,12.847702026367188,White
+genomic DNA from peripheral blood OtherInfection 21,GSM5099381,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,61,66.97646,67.41474000000001,6.414741516113281,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 104,GSM5099382,positive,3.0,No,Yes,10.0,Home,Floor Admission,Hispanic or Latino,Other,Female,55,54.96599200000001,49.217166999999996,-5.782833099365234,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 116,GSM5099383,negative,,No,Yes,,Home,ICU,Hispanic or Latino,Other,Female,39,47.073593,39.341476,0.3414764404296875,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 126,GSM5099384,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Male,46,51.026990000000005,43.950138,-2.0498619079589844,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 233,GSM5099385,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,24,27.65946,28.515469,4.515468597412109,White
+genomic DNA from peripheral blood SARS-COV-2- 279,GSM5099386,negative,,,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Male,85,79.8616,82.736176,-2.263824462890625,White
+genomic DNA from peripheral blood SARS-COV-2- 261,GSM5099387,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,37,46.521023,38.75847,1.7584686279296875,White
+genomic DNA from peripheral blood SARS-COV-2- 228,GSM5099388,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,59,59.97496999999999,56.61991999999999,-2.3800811767578125,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 204,GSM5099389,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,24,25.549444,28.38058,4.380580902099609,BlackorAA
+genomic DNA from peripheral blood OtherInfection 48,GSM5099391,other infection,,,No,,,Discharged,Not Hispanic or Latino,White,Male,56,56.491572999999995,51.40428,-4.5957183837890625,White
+genomic DNA from peripheral blood OtherInfection 30,GSM5099392,other infection,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,69,63.431076000000004,61.963223,-7.036777496337891,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 59,GSM5099393,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,55,59.629887,56.092686,1.0926856994628906,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 61,GSM5099394,positive,1.0,No,No,0.0,,Discharged,Hispanic or Latino,Other,Female,58,59.44185,55.80616,-2.1938400268554688,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 95,GSM5099395,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,74,72.395645,75.12454,1.124542236328125,White
+genomic DNA from peripheral blood SARS-COV-2- 98,GSM5099396,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,57,59.033609999999996,55.186172,-1.8138275146484375,White
+genomic DNA from peripheral blood SARS-COV-2+ 69,GSM5099397,positive,1.0,No,No,0.0,Home,Discharged,Not Hispanic or Latino,Asian,Male,63,65.97495,65.89119000000001,2.8911895751953125,Asian
+genomic DNA from peripheral blood SARS-COV-2+ 95,GSM5099398,positive,2.0,No,No,1.0,Home,Floor Admission,Hispanic or Latino,Other,Male,26,24.766624,28.363784999999996,2.3637847900390625,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 68,GSM5099399,positive,2.0,Yes,No,6.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,70,74.655785,77.90812,7.908119201660156,White
+genomic DNA from peripheral blood OtherInfection 9,GSM5099400,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,70,65.47439,65.12346,-4.8765411376953125,White
+genomic DNA from peripheral blood SARS-COV-2+ 97,GSM5099401,positive,2.0,Yes,No,2.0,Home,Floor Admission,Hispanic or Latino,White,Male,53,56.34026,51.18427,-1.8157310485839844,White Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 8,GSM5099402,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,30,33.939873,29.929714,-0.07028579711914062,White
+genomic DNA from peripheral blood SARS-COV-2- 274,GSM5099403,negative,,,Yes,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,72,68.18794,69.22824,-2.771759033203125,White
+genomic DNA from peripheral blood SARS-COV-2- 273,GSM5099404,negative,,,Yes,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,56,57.78141,53.304522999999996,-2.695476531982422,White
+genomic DNA from peripheral blood OtherInfection 28,GSM5099405,other infection,,,No,,Home,Discharged,Hispanic or Latino,White,Female,28,34.409725,30.107801000000002,2.1078014373779297,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 259,GSM5099406,negative,,,Yes,,Death,ICU,Hispanic or Latino,White,Male,55,54.17333000000001,48.110344,-6.889656066894531,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 268,GSM5099407,negative,,,Yes,,Home,ICU,Hispanic or Latino,Other,Female,72,78.23759,81.512436,9.512435913085938,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 231,GSM5099408,negative,,,Yes,,Death,ICU,Not Hispanic or Latino,White,Female,86,80.98167,83.40335,-2.596649169921875,White
+genomic DNA from peripheral blood SARS-COV-2+ 128,GSM5099409,positive,3.0,No,Yes,19.0,Home,ICU,Not Hispanic or Latino,BlackorAA,Male,56,54.737377,48.89575,-7.104251861572266,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 131,GSM5099410,positive,2.0,Yes,No,5.0,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,26,37.602757000000004,31.618215999999997,5.618215560913086,BlackorAA
+genomic DNA from peripheral blood OtherInfection 18,GSM5099411,other infection,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,64,60.382263,57.244369999999996,-6.7556304931640625,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 12,GSM5099412,other infection,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,47,58.214335999999996,53.951347,6.951347351074219,White
+genomic DNA from peripheral blood SARS-COV-2- 118,GSM5099413,negative,,,Yes,,Death,ICU,Not Hispanic or Latino,BlackorAA,Female,68,71.91743000000001,74.49554,6.495536804199219,BlackorAA
+genomic DNA from peripheral blood OtherInfection 22,GSM5099414,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Male,55,58.46747,54.331436,-0.6685638427734375,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 134,GSM5099415,positive,3.0,No,Yes,20.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Male,46,54.03886,47.924746999999996,1.9247474670410156,Asian
+genomic DNA from peripheral blood SARS-COV-2- 280,GSM5099416,negative,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,83,77.918846,81.23938000000001,-1.7606201171875,White
+genomic DNA from peripheral blood SARS-COV-2+ 137,GSM5099417,positive,4.0,No,Yes,,Death,ICU,Hispanic or Latino,Other,Male,63,64.47554000000001,63.582474,0.5824737548828125,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 136,GSM5099418,positive,4.0,No,Yes,,Death,Floor Admission,Hispanic or Latino,Other,Female,82,82.16645,83.93603,1.9360275268554688,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 281,GSM5099419,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,64,64.32124,63.34364300000001,-0.6563568115234375,White
+genomic DNA from peripheral blood SARS-COV-2- 284,GSM5099420,negative,,,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,White,Female,75,68.89313,70.26503000000001,-4.7349700927734375,White
+genomic DNA from peripheral blood SARS-COV-2+ 135,GSM5099421,positive,3.0,No,Yes,8.0,Home,ICU,Hispanic or Latino,White,Male,84,78.01673000000001,81.32431,-2.675689697265625,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 107,GSM5099422,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,68,60.418231999999996,57.299640000000004,-10.700359344482422,White
+genomic DNA from peripheral blood SARS-COV-2+ 98,GSM5099423,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,67,62.67539,60.78995,-6.210048675537109,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 92,GSM5099424,positive,1.0,No,No,0.0,Home,Discharged,Hispanic or Latino,Other,Male,46,53.05686,46.589462,0.5894622802734375,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 65,GSM5099425,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,56,60.173252000000005,56.923634,0.9236335754394531,White
+genomic DNA from peripheral blood OtherInfection 37,GSM5099426,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,74,75.740166,79.11551999999999,5.115516662597656,White
+genomic DNA from peripheral blood SARS-COV-2- 199,GSM5099427,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,50,56.28253,51.100502,1.1005020141601562,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 67,GSM5099428,positive,2.0,No,No,7.0,Home,Floor Admission,Not Hispanic or Latino,White,Male,58,62.140106,59.959340000000005,1.9593391418457031,White
+genomic DNA from peripheral blood SARS-COV-2- 114,GSM5099429,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,62,65.49962,65.16224,3.1622390747070312,White
+genomic DNA from peripheral blood OtherInfection 64,GSM5099430,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,56,54.19883299999999,48.145607,-7.854393005371094,White
+genomic DNA from peripheral blood OtherInfection 50,GSM5099431,other infection,,,No,,Home,Discharged,Not Hispanic or Latino,BlackorAA,Male,29,33.66928,29.832108,0.8321075439453125,BlackorAA
+genomic DNA from peripheral blood OtherInfection 46,GSM5099432,other infection,,,No,,Home,Discharged,Hispanic or Latino,Other,Female,57,70.66973,72.79869000000001,15.798690795898438,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 66,GSM5099433,positive,2.0,No,No,4.0,Home,Floor Admission,Hispanic or Latino,Other,Female,60,60.825343999999994,57.926037,-2.073963165283203,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 99,GSM5099435,positive,4.0,No,No,,Death,Floor Admission,Hispanic or Latino,Other,Male,49,54.93619,49.17517,0.1751708984375,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 108,GSM5099436,negative,,,Yes,,Home,Floor Admission,Not Hispanic or Latino,White,Male,62,61.663166000000004,59.220325,-2.779674530029297,White
+genomic DNA from peripheral blood SARS-COV-2+ 102,GSM5099437,positive,3.0,No,Yes,42.0,Home,Floor Admission,Hispanic or Latino,Other,Male,58,58.514140000000005,54.40165,-3.5983505249023438,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 16,GSM5099438,other infection,,,Yes,,Home,Floor Admission,Hispanic or Latino,Other,Male,54,63.181263,61.575386,7.575386047363281,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 11,GSM5099440,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,65,68.37253,69.50109,4.501091003417969,White
+genomic DNA from peripheral blood SARS-COV-2- 262,GSM5099441,negative,,,Yes,,,Floor Admission,Not Hispanic or Latino,White,Male,69,67.06594,67.54987,-1.4501266479492188,White
+genomic DNA from peripheral blood OtherInfection 26,GSM5099442,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,26,27.441608000000002,28.494878999999997,2.4948787689208984,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2+ 65,GSM5099443,positive,3.0,No,Yes,21.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,51,58.739419999999996,54.74124499999999,3.7412452697753906,White
+genomic DNA from peripheral blood SARS-COV-2+ 107,GSM5099444,positive,2.0,No,No,4.0,Other,Floor Admission,Not Hispanic or Latino,White,Male,58,56.88541800000001,51.979965,-6.0200347900390625,White
+genomic DNA from peripheral blood OtherInfection 54,GSM5099445,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,56,64.57555,63.737190000000005,7.737190246582031,White
+genomic DNA from peripheral blood OtherInfection 51,GSM5099446,other infection,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Female,34,42.173252000000005,34.735046000000004,0.73504638671875,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 41,GSM5099447,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Female,50,51.37314,44.38803,-5.611968994140625,White
+genomic DNA from peripheral blood SARS-COV-2+ 100,GSM5099448,positive,2.0,No,No,14.0,Home,Floor Admission,Not Hispanic or Latino,Asian,Female,69,67.78312,68.62640999999999,-0.37358856201171875,Asian
+genomic DNA from peripheral blood SARS-COV-2- 213,GSM5099449,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,55,59.398745999999996,55.74055,0.7405509948730469,White
+genomic DNA from peripheral blood SARS-COV-2- 248,GSM5099450,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,18,21.87581,28.420275,10.42027473449707,White
+genomic DNA from peripheral blood SARS-COV-2- 256,GSM5099451,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,91,78.07321,81.37289399999999,-9.627105712890625,White
+genomic DNA from peripheral blood SARS-COV-2- 232,GSM5099452,negative,,,No,,,Discharged,Hispanic or Latino,Other,Female,63,60.722023,57.766895,-5.233104705810547,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 109,GSM5099453,positive,2.0,No,No,2.0,Home,Floor Admission,Not Hispanic or Latino,White,Female,72,62.795273,60.97606700000001,-11.023933410644531,White
+genomic DNA from peripheral blood SARS-COV-2- 120,GSM5099454,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,BlackorAA,Female,29,31.739079999999998,29.237765999999997,0.23776626586914062,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 206,GSM5099455,negative,,,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,30,47.002224,39.26529,9.265289306640625,Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2+ 113,GSM5099456,positive,3.0,No,Yes,,,Floor Admission,Hispanic or Latino,White,Female,48,54.983562,49.241935999999995,1.2419357299804688,White Hispanic or Latino
+genomic DNA from peripheral blood SARS-COV-2- 264,GSM5099457,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,78,72.74479000000001,75.57565,-2.424346923828125,White
+genomic DNA from peripheral blood SARS-COV-2- 197,GSM5099458,negative,,,Yes,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,66,67.39529399999999,68.04581,2.045806884765625,White
+genomic DNA from peripheral blood SARS-COV-2- 272,GSM5099459,negative,,,Yes,,Death,ICU,Not Hispanic or Latino,White,Male,52,56.64675,51.6306,-0.3694000244140625,White
+genomic DNA from peripheral blood OtherInfection 24,GSM5099460,other infection,,,No,,Home,Discharged,Hispanic or Latino,Other,Male,43,54.6183,48.729034000000006,5.729034423828125,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 20,GSM5099461,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,BlackorAA,Female,65,61.682526,59.250294,-5.749706268310547,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 112,GSM5099462,negative,,,Yes,,,ICU,Not Hispanic or Latino,BlackorAA,Male,80,68.78399999999999,70.10560600000001,-9.894393920898438,BlackorAA
+genomic DNA from peripheral blood OtherInfection 25,GSM5099463,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,49,62.982452,61.266690000000004,12.26668930053711,White
+genomic DNA from peripheral blood SARS-COV-2- 214,GSM5099464,negative,,No,Yes,,Nursing home or skilled rehab,ICU,Hispanic or Latino,Other,Male,60,61.626163,59.16304,-0.8369598388671875,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 19,GSM5099465,other infection,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Male,57,60.140106,56.872856000000006,-0.12714385986328125,White
+genomic DNA from peripheral blood OtherInfection 7,GSM5099466,other infection,,,Yes,,Death,ICU,Not Hispanic or Latino,White,Female,65,66.35786999999999,66.47589,1.47589111328125,White
+genomic DNA from peripheral blood SARS-COV-2- 225,GSM5099467,negative,,No,Yes,,Nursing home or skilled rehab,ICU,Not Hispanic or Latino,Asian,Male,64,62.27627,60.170547,-3.8294525146484375,Asian
+genomic DNA from peripheral blood SARS-COV-2- 192,GSM5099468,negative,,,Yes,,Home,ICU,Hispanic or Latino,Other,Female,19,25.39459,28.375956,9.375955581665039,Hispanic or Latino
+genomic DNA from peripheral blood OtherInfection 15,GSM5099469,other infection,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Female,65,65.985794,65.90779,0.9077911376953125,White
+genomic DNA from peripheral blood SARS-COV-2- 109,GSM5099470,negative,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,63,62.557735,60.607319999999994,-2.392681121826172,White
+genomic DNA from peripheral blood OtherInfection 45,GSM5099471,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,53,61.131588,58.398422,5.3984222412109375,White
+genomic DNA from peripheral blood OtherInfection 36,GSM5099472,other infection,,,No,,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,White,Male,84,81.566574,83.68945,-0.310546875,White
+genomic DNA from peripheral blood OtherInfection 32,GSM5099473,other infection,,,No,,Other,Discharged,Not Hispanic or Latino,BlackorAA,Female,26,26.554585999999997,28.427412,2.4274120330810547,BlackorAA
+genomic DNA from peripheral blood OtherInfection 60,GSM5099474,other infection,,,Yes,,Home,ICU,Not Hispanic or Latino,White,Male,72,79.900314,82.76173399999999,10.761734008789062,White
+genomic DNA from peripheral blood SARS-COV-2+ 94,GSM5099475,positive,2.0,No,No,10.0,Nursing home or skilled rehab,Floor Admission,Not Hispanic or Latino,BlackorAA,Male,67,63.361107,61.854594999999996,-5.145404815673828,BlackorAA
+genomic DNA from peripheral blood SARS-COV-2- 196,GSM5099476,negative,,,No,,Home,Floor Admission,Not Hispanic or Latino,White,Female,48,56.2811,51.098434000000005,3.0984344482421875,White
+genomic DNA from peripheral blood SARS-COV-2- 101,GSM5099477,negative,,No,No,,Home,Floor Admission,Hispanic or Latino,Other,Male,52,65.500786,65.164024,13.164024353027344,Hispanic or Latino
