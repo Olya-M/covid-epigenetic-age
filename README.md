@@ -44,7 +44,7 @@ The GSE16702 dataset did not contain the matching CpG sites for the 2013 Horvath
 * Figure from de Lima *et al*, 2021
 
 
-After normalization, I ran the GSE16702 dataset through the model. This (and further analysis) can be found in the [preprocessing_2_and_analysis](https://github.com/Olya-M/covid-epigenetic-age/blob/main/preprocessing_2_and_analysis.ipynb) Jupyter notebook. There seemed to be some divergence between epigenetic ages and chronological ages around the 40 to 50 year mark, including for the control set of samples. Especially since the COVID-19-positive set of samples were skewed towards a younger chronological age than the COVID-19-positive samples, this could falsely bias the COVID-19 positive samples to show an older epigenetic age than the negative samples:
+After normalization, I ran the GSE16702 dataset through the model. This (and further analysis) can be found in the [preprocessing_2_and_analysis.ipyb](https://github.com/Olya-M/covid-epigenetic-age/blob/main/preprocessing_2_and_analysis.ipynb) Jupyter notebook. There appear to be some difference between epigenetic ages and chronological ages around the 40 to 50 year mark, including for the control set of samples. Because the COVID-19-positive set of samples are skewed towards a younger chronological age than the COVID-19-negative samples, the COVID-19-positive samples could be incorrectly skewed to reflect an older epigenetic age than the negative samples:
 
 
 ![ages1](https://user-images.githubusercontent.com/68296887/137142333-f5705772-4989-4653-b5be-962008269ec9.png)
