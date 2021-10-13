@@ -11,7 +11,7 @@
 </details>
 
 ## Brief summary
-To evaluate epigenetic age acceleration in COVID-19 patients, I used [GSE16702](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167202) from the gene expression omnibus (GEO), an existing methylation dataset that just became public on September 20th, and an existing deep learning model, [AltumAge](https://github.com/rsinghlab/AltumAge). I found that while male COVID-19 patients had an accelerated epigenetic age, the severity of COVID-19 infections was not significantly associated with an increased epigenetic age.
+To evaluate epigenetic age acceleration in COVID-19 patients, I used [GSE16702](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167202), an existing methylation dataset that just became public on September 20th, and an existing deep learning epigenetic clock model, [AltumAge](https://github.com/rsinghlab/AltumAge). I found that while male COVID-19 patients had an accelerated epigenetic age, the severity of COVID-19 infections was not significantly associated with an increased epigenetic age.
 
 
 ## Introduction
