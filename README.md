@@ -22,14 +22,14 @@ After more than a year of the COVID-19 pandemic, many of us either know someone 
 CpGs are DNA regions that are commonly methylated - that is, they often have an extra carbon atom with three hydrogen atoms added on to them. This can serve as a way for different cells to block the expression of certain genes. The way different CpGs are methylated seems to have a strong correlation with age, and epigenetic "clocks" can be used to predict a person's epigenetic (or biological) age. Notably, the biological age of persons that are healthier than average tends to be lower than their chronological age, and vice-versa. Accelerated biological age can also indicate a [higher risk for age-related diseases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520108/). While a [recent study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8431654/) found no link between COVID-19 severity and epigenetic age acceleration, there was [another study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8013321/) that did find a link. Furthermore, neither study separated the samples by demographics, which was something that I wanted to look into.
 
 ## The data
-The dataset used in this project is [GSE16702](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167202). GSE16702 is a methylation profiling by array dataset with Illuminaa EPIC probes and custom probes. It contains blood methylation data for:
+The dataset used in this project is [GSE16702](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167202). GSE16702 is a methylation profiling by array dataset with Illumina EPIC probes and custom probes. It contains blood methylation data for:
 * 296 COVID-19-negative patients
 * 164 COVID-19-positive patients
 * 65 patients with a non-COVID-19 respiratory infection
 
 ### Preprocessing
 
-I did the preprocessing with R. While the model that I used, AltumAge, instructs normalizing methylation data with the [beta-mixture quantile (BMIQ) normalization method from Steve Horvath](https://horvath.genetics.ucla.edu/html/dnamage/), I first tried running the available already normalized dataset, which was normalized with normal-exponential out-of-band through AltumAge. This led to non-existent epigenetic age correlation with chronological age (see the below image). Re-normalizing the already normalized dataset did not work, either.
+I did the preprocessing with R. While the model that I used, AltumAge, recommends normalizing methylation data using the [beta-mixture quantile (BMIQ) normalization method from Steve Horvath](https://horvath.genetics.ucla.edu/html/dnamage/), I first tried running the available already normalized dataset, which was normalized with normal-exponential out-of-band through AltumAge. This led to non-existent epigenetic age correlation with chronological age (see the below image). Re-normalizing the already normalized dataset did not work, either.
 
 ![ages0](https://user-images.githubusercontent.com/68296887/137123991-8963421f-7ef8-4c14-8bcf-a0ddb932e183.png)
 
@@ -76,7 +76,7 @@ It is possible that the age acceleration discrepancy may be due to model-bias, e
 
 ![plots4](https://user-images.githubusercontent.com/68296887/137148804-2171e9f7-fd10-44b4-b25c-c9610b7e0d73.png)
 
-This suggests that there is a real effect for male patients on average having a higher epigenetic age acceleration with COVID-19. This might indicate that male patients with a biological age higher than their chronological age are more susceptible to COVID-19 infections, or that male patients that develop COVID-19 subsequently develop an accelerated biological age. As the latter might have long-lasting clinical implications, it would be useful to look at a dataset that has methylation profiles for patients several weeks, months, or years following COVID-19 infections to see if the accelerated epigenetic age stays the same or if there might be a reversal with time, and how this might be associated with long-covid.
+The above suggests that male patients on average having a higher epigenetic age acceleration with COVID-19 is a real effect. This could indicate that male patients with a biological age greater than their chronological age are more susceptible to COVID-19 infections, or that male patients with COVID-19 develop an accelerated biological age as a result of the infection. Because the latter could have long-term clinical implications following infection, it would be interesting to examine a dataset that has methylation profiles for patients several weeks, months, or years after COVID-19 infections to see if the accelerated epigenetic age remains the same or if it reverses over time, and how this might be linked to long-covid.
 
 ## Dataset and methods references:
 
