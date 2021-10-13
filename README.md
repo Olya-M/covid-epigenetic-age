@@ -7,7 +7,7 @@
 3. [What is epigenetic age?](#epigenetic-age)
 4. [The data](#the-data)
 5. [The model](#the-model)
-5. [Results](#results)
+5. [Analysis](#analysis)
 6. [References](#references)
 </details>
 
@@ -46,7 +46,7 @@ The GSE16702 dataset did not contain the matching CpG sites for the 2013 Horvath
 * Figure from de Lima *et al*, 2021
 
 
-After normalization, I ran the GSE16702 dataset through the model. There seemed to be some divergence between epigenetic ages and chronological ages around the 40 to 50 year mark, including for the control set of samples. Especially since the COVID-19-positive set of samples were skewed towards a younger chronological age than the COVID-19-positive samples, this could falsely bias the COVID-19 positive samples to show an older epigenetic age than the negative samples:
+After normalization, I ran the GSE16702 dataset through the model. This (and further analysis) can be found in the [preprocessing_2_and_analysis](https://github.com/Olya-M/covid-epigenetic-age/blob/main/preprocessing_2_and_analysis.ipynb) Jupyter notebook. There seemed to be some divergence between epigenetic ages and chronological ages around the 40 to 50 year mark, including for the control set of samples. Especially since the COVID-19-positive set of samples were skewed towards a younger chronological age than the COVID-19-positive samples, this could falsely bias the COVID-19 positive samples to show an older epigenetic age than the negative samples:
 
 
 ![ages1](https://user-images.githubusercontent.com/68296887/137142333-f5705772-4989-4653-b5be-962008269ec9.png)
@@ -55,16 +55,31 @@ Because of this I fit a curve with 25 random samples from the COVID-19-negative 
 
 ![ages2](https://user-images.githubusercontent.com/68296887/137143233-3accfab0-f92f-49d5-879f-61de10f4939e.png)
 
-Age acceleration was then calculated as the difference between the adjusted predicted epigenetic age and chronological age.
+Age acceleration (biological/epigenetic) was then calculated as the difference between the adjusted predicted epigenetic age and chronological age. 
 
 
-## Results
+## Analysis
 
-The results can be found in the [preprocessing_2_and_analysis](https://github.com/Olya-M/covid-epigenetic-age/blob/main/preprocessing_2_and_analysis.ipynb) Jupyter notebook. 
-## Conclusion
+I found that epigenetic age acceleration if patients as a whole was not associated with COVID-19 infections nor their severity, including the chance of dying from COVID-19:
 
-I would be interested in exploring 
+![plots1](https://user-images.githubusercontent.com/68296887/137144579-dccc37c7-360d-4160-8b43-f6b16555581e.png)
 
+
+However, after breaking down the samples into demographics I found that male patients with COVID-19 had a significantly higher age acceleration (1.8 years) relative to male patients without COVID-19:
+
+![plots2](https://user-images.githubusercontent.com/68296887/137144644-52b379bf-e86d-45e4-8a24-d470ba92c769.png)
+
+
+This increase in epigenetic age, however, was not associated with a higher COVID-19 severity score in male patients relative to female patients. Additionally, while male patients had a higher case fatality, death from COVID-19 was not associated with an accelerated epigenetic score:
+
+![plots3](https://user-images.githubusercontent.com/68296887/137144655-99a191fc-3e98-4500-9132-cd8787e09718.png)
+
+
+It is possible that the age acceleration discrepancy may be due to model-bias, even after correction, as male patients with COVID-19 are on average younger than male patients without COVID-19 in this dataset. In this case, a model better tuned on blood samples may be more appropriate. However, female patients do not have the age acceleration with COVID-19-positivity seen in male patients despite the chronological age distribution for female COVID-19-positive patients in this dataset also skewing lower than their COVID-19-negative counterparts:
+
+![plots4](https://user-images.githubusercontent.com/68296887/137148804-2171e9f7-fd10-44b4-b25c-c9610b7e0d73.png)
+
+This suggests that there is a real effect for male patients having a higher biological age acceleration with COVID-19.
 
 ## References
 #### Model:
