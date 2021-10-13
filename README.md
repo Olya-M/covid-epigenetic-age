@@ -3,25 +3,23 @@
   <summary>Table of Contents</summary>
  
 1. [Brief summary](#brief-summary)
-2. [Motivation](#motivation)
-3. [What is epigenetic age?](#epigenetic-age)
-4. [The data](#the-data)
-5. [The model](#the-model)
+2. [Introduction](#motivation)
+3. [The data](#the-data)
+4. [The model](#the-model)
 5. [Analysis](#analysis)
-6. [References](#references)
+6. [Dataset and methods references](#references)
 </details>
 
 ## Brief summary
-I used [GSE16702](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167202) from the gene expression omnibus (GEO), an existing dataset which just became public on September 20th, and an existing model, [AltumAge](https://github.com/rsinghlab/AltumAge), to analyze epigenetic age acceleration in patients with COVID19. I found that covid infections and their severity were not significantly associated with an increased epigenetic age except for in male patients.
+I used [GSE16702](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167202) from the gene expression omnibus (GEO), an existing methylation dataset which just became public on September 20th, and an existing model, [AltumAge](https://github.com/rsinghlab/AltumAge), to analyze epigenetic age acceleration in patients with COVID19. I found that covid infections and their severity were not significantly associated with an increased epigenetic age except for in male patients.
 
 
-## Motivation
+## Introduction
+#### Motivation
+After over a year of the COVID-19 pandemic, many of us know somebody that got sick with COVID-19 or ourselves got COVID-19. Although vaccinations for COVID-19 are now widely available, COVID-19 will likely still remain a health concern once the pandemic is over as about [37% of people that got COVID-19 were affected with long-term effects](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003773), also known as long-covid. It's important to fully understand how COVID-19 might be impacting people so that they can get the appropriate treatment. I myself also seem to have gotten COVID-19 early on in the pandemic and to have gotten long-covid for now over a year and would like to better understand how I might have gotten impacted. 
 
-
-
-## What is epigenetic age?
-
-*stuff about CpGs here
+#### Epigenetic age
+CpGs are DNA regions that are commonly methylated - that is, they often have an extra carbon atom with three hydrogen atoms added on to them. This can serve as a way for different cells to block the expression of certain genes. The way different CpGs are methylated seems to have a strong correlation with age, and epigenetic "clocks" can be used to predict a person's epigenetic (or biological) age. Notably, the biological age of healthier than average individuals tends to be lower than their chronological age, and vice-versa. Accelerated biological age can also indicate a (higher risk for age-associated diseases)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520108/]. While a (recent study by Franzen *et al*.) [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8431654/] has found no correlation between COVID-19 severity and epigenetic age acceleration, there was (another study by Corley *et al.*)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8013321/] that did find a difference in epigenetic age. Additionally, neither study broke down the samples by different demographics, which is something that I wanted to check out.
 
 ## The data
 The dataset used in this project is [GSE16702](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167202). GSE16702 is a methylation profiling by array dataset with Illuminaa EPIC probes and custom probes. It contains blood methylation data for:
@@ -60,12 +58,11 @@ Age acceleration (biological/epigenetic) was then calculated as the difference b
 
 ## Analysis
 
-I found that epigenetic age acceleration if patients as a whole was not associated with COVID-19 infections nor their severity, including the chance of dying from COVID-19:
+Despite COVID-19 being known as a disease that is associated with worse outcomes in older patients, I found that epigenetic age acceleration if patients as a whole was not associated with COVID-19 infections nor their severity, including the chance of dying from COVID-19:
 
 ![plots1](https://user-images.githubusercontent.com/68296887/137144579-dccc37c7-360d-4160-8b43-f6b16555581e.png)
 
-
-However, after breaking down the samples into demographics I found that male patients with COVID-19 had a significantly higher age acceleration (1.8 years) relative to male patients without COVID-19:
+While I found this to be unexpected, this was consistent with what was found in a (recent study)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8431654/] with a different dataset. However, after breaking down the samples into demographics I found that male patients with COVID-19 had a significantly higher age acceleration (1.8 years) relative to male patients without COVID-19:
 
 ![plots2](https://user-images.githubusercontent.com/68296887/137144644-52b379bf-e86d-45e4-8a24-d470ba92c769.png)
 
@@ -79,14 +76,16 @@ It is possible that the age acceleration discrepancy may be due to model-bias, e
 
 ![plots4](https://user-images.githubusercontent.com/68296887/137148804-2171e9f7-fd10-44b4-b25c-c9610b7e0d73.png)
 
-This suggests that there is a real effect for male patients having a higher biological age acceleration with COVID-19.
+This suggests that there is a real effect for male patients on average having a higher epigenetic age acceleration with COVID-19. This might indicate that male patients with a biological age higher than their chronological age are more susceptible to COVID-19 infections, or that male patients that develop COVID-19 subsequently develop an accelerated biological age. As the latter might have long-lasting clinical implications, it would be useful to look at a dataset that has methylation profiles for patients several weeks, months, or years following COVID-19 infections to see if the accelerated epigenetic age stays the same or if there might be a reversal with time, and how this might be associated with long-covid.
 
-## References
-#### Model:
-* de Lima LP, Lapierre LR, Singh R. AltumAge: A Pan-Tissue DNA-Methylation Epigenetic Clock Based on Deep Learning. bioRxiv. 2021 
-#### Normalization:
-* Horvath S. DNA methylation age of human tissues and cell types. Genome Biology. 2013
+## Dataset and methods references:
+
+
 #### Dataset:
 * Konigsberg IR, Barnes B, Campbell M, Davidson E, Zhen Y, Pallisard O, Boorgula M, Cox C, Nandy D, Seal S, Crooks K. Host methylation predicts SARS-CoV-2 infection and clinical outcome. 2021
 
+#### Model:
+* de Lima LP, Lapierre LR, Singh R. AltumAge: A Pan-Tissue DNA-Methylation Epigenetic Clock Based on Deep Learning. bioRxiv. 2021 
 
+#### Normalization:
+* Horvath S. DNA methylation age of human tissues and cell types. Genome Biology. 2013
