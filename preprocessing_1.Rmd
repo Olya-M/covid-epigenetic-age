@@ -15,7 +15,7 @@ meta_filename = paste('data/', fname, geo,'_meta.csv', sep='')
 normalized_filename = paste('data/', fname, geo,'_normalized.csv', sep='')
 horvath_filename = paste('data/', fname, geo,'_horvath.csv', sep='')
 ```
-Citation for this dataset: 
+Dataset citation: 
 Konigsberg IR, Barnes B, Campbell M, Davidson E, Zhen Y, Pallisard O, Boorgula M, Cox C, Nandy D, Seal S, Crooks K. Host methylation predicts SARS-CoV-2 infection and clinical outcome.
 
 ```{r}
@@ -40,8 +40,7 @@ write.table(meta, meta_filename, row.names=T, sep=',' )
 
 ```{r}
 # Downloaded GSE167202_RAW.tar directly from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167202
-
-altum_cpgs = fread('AltumAge_cpgs.csv')
+cpgs27k = fread('HorvathClock/datMiniAnnotation27k.csv')$Name
 
 idatFiles <- list.files('GSE167202_RAW', pattern = "idat.gz$", full = TRUE)
 sapply(idatFiles, gunzip, overwrite = TRUE)
@@ -49,21 +48,23 @@ sapply(idatFiles, gunzip, overwrite = TRUE)
 targets <- paste('GSE167202_RAW/',rownames(meta),'_', meta$description.1,'_noid',sep='')
 targets_frame <- data.frame(Sample_Name=rownames(meta), Basename=targets)
 
+
 for (i in 1:length(targets_frame[[1]])){
   rgs <- read.metharray.exp(targets = targets_frame[i,])
   rgs@annotation=c(array="IlluminaHumanMethylationEPIC",annotation="ilm10b2.hg19")
-  rgs <-subsetByLoci(rgs, includeLoci=unlist(altum_cpgs[-1]))
-  betas <- cbind(betas, getBeta(rgs, type="Illumina"))
+  rgs <-subsetByLoci(rgs, includeLoci=cpgs27k)
+  if (i == 1){betas <-getBeta(rgs, type="Illumina")}
+  else{betas <- cbind(betas, getBeta(rgs, type="Illumina"))}
   print(i)
 }
 
 betas_dataframe <- data.frame(betas)
-betas_dataframe['V1'] <- rownames(betas_dataframe)
+betas_dataframe <- cbind('v1'=rownames(betas_dataframe), betas_dataframe)
 fwrite(betas_dataframe, unprocessed_filename, row.names=F, sep=',') 
 ```
 
 ```{r}
-# Downloaded GSE167202_ProcessedBetaValues.txt.gz from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167202 - first did normalization with this file to see if re-normalizing could work for age estimation (it didn't)
+# Downloaded GSE167202_ProcessedBetaValues.txt.gz from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167202 - first tried it out as is, and then did normalization with this file to see if re-normalizing could work for age estimation (it didn't)
 
 # unprocessed = fread('GSE167202_ProcessedBetaValues.txt')
 # unprocessed = fread()
@@ -83,9 +84,7 @@ Method citation: Horvath S (2013) DNA methylation age of human tissues and cell 
 ```{r}
 probeAnnotation21kdatMethUsed=read.csv("HorvathClock/probeAnnotation21kdatMethUsed.csv")
 probeAnnotation27k=read.csv("HorvathClock/datMiniAnnotation27k.csv")
-datClock=read.csv("HorvathClock/AdditionalFile3.csv") # unfortunately there weren't enough cpgs that matched up with the cpgs in the original Horvath clock
-trafo= function(x,adult.age=20) { x=(x+1)/(1+adult.age); y=ifelse(x<=1, log( x),x-1);y }
-anti.trafo= function(x,adult.age=20) { ifelse(x<0, (1+adult.age)*exp(x)-1, (1+adult.age)*x+adult.age) }
+datClock=read.csv("HorvathClock/AdditionalFile3.csv")
 
 unprocessed = fread(unprocessed_filename)
 dat0 <- data.frame(unprocessed)
@@ -187,9 +186,13 @@ datMethUsedNormalized <- cbind(ID=rownames(datMethUsedNormalized), datMethUsedNo
 write.table(datMethUsedNormalized,normalized_filename, row.names=F, sep="," ) 
 ```
 
-The cell below won't work with the example dataset (not enough matching cpgs):
+The cell below for estimating epigenetic age with the 2013 Horvath cpgs won't work with the GSE167202 dataset (not enough matching cpgs):
 ```{r}
 #STEP 4: Predict age and create a data frame for the output (referred to as datout)
+trafo= function(x,adult.age=20) { x=(x+1)/(1+adult.age); y=ifelse(x<=1, log( x),x-1);y }
+anti.trafo= function(x,adult.age=20) { ifelse(x<0, (1+adult.age)*exp(x)-1, (1+adult.age)*x+adult.age) }
+
+
 selectCpGsClock=is.element(colnames(datMethUsedNormalized), as.character(datClock$CpGmarker[-1]))
 
 if ( sum( selectCpGsClock) < dim(datClock)[[1]]-1 ) {stop("The CpGs listed in column 1 of the input data did not contain the CpGs needed for calculating DNAm age. Make sure to input cg numbers such as cg00075967.")}
@@ -198,8 +201,10 @@ if (nSamples>1 ) {
 datMethClock0=data.frame(datMethUsedNormalized[,selectCpGsClock])
 datMethClock= data.frame(datMethClock0[ as.character(datClock$CpGmarker[-1])])
 dim(datMethClock)
+
 predictedAge=as.numeric(anti.trafo(datClock$CoefficientTraining[1]+as.matrix(datMethClock)%*% as.numeric(datClock$CoefficientTraining[-1])))
 } # end of if
+
 
 Comment=ifelse ( predictedAge <0, "Negative DNAm age.", ifelse ( predictedAge >100, "Old DNAm age.", rep("",length(predictedAge))))
 
